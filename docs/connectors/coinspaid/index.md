@@ -1,4 +1,4 @@
-<img src="https://static.openfintech.io/payment_providers/coinspaid/logo.png?w=400" width="400px" >
+<img src="https://static.openfintech.io/payment_providers/coinspaid/logo.svg?w=400" width="400px" >
 
 # CoinsPaid
 

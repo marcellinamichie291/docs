@@ -256,9 +256,10 @@ nav:
     - Public IPs: integration/ips.md
 - Connectors:
     - Overview: connectors/index.md
-    - Test:
-        - Test Connector: connectors/test/index.md
+    - CardGate: 
+        - Overview: connectors/cardgate/index.md
         - Test Card Payments: connectors/test/test-card-numbers.md
+    - Test: connectors/test/index.md
     - Manual: connectors/manual/index.md
     - External Provider: connectors/externalprovider/index.md
       #- AustralPay: connectors/australpay/index.md
@@ -267,6 +268,7 @@ nav:
       #- MoneyMovers: connectors/moneymovers/index.md
       #- Payoneer: connectors/payoneer/index.md
       #- 123x: connectors/123x/index.md
+      #- IPayTotal: connectors/ipaytotal/index.md
     - 4bill: connectors/4bill/index.md
     - Accentpay: connectors/accentpay/index.md
     - ADgroup: connectors/adgroup/index.md
@@ -278,8 +280,7 @@ nav:
     - Axcess Merchant Services: connectors/axcessmerchantservices/index.md
     - Bank Onego: connectors/bankonego/index.md
     - Billline: connectors/billline/index.md
-    - CardGate: connectors/cardgate/index.md
-    - CardPay (Unlimint): connectors/cardpay/index.md
+    - Unlimint (CardPay): connectors/cardpay/index.md
     - Cashfree: connectors/cashfree/index.md
     - Cauri: connectors/cauri/index.md
     - Certus Finance: connectors/certusfinance/index.md
@@ -287,14 +288,16 @@ nav:
     - CoinsPaid: connectors/coinspaid/index.md      
     - ComInBank: connectors/cib/index.md
     - Concord Bank: connectors/concord/index.md
+    - Concordpay: connectors/concordpay/index.md
     - Connectum: connectors/connectum/index.md
     - CrossPay: connectors/crosspay/index.md
     - Cypix: connectors/cypix/index.md
     - Decta: connectors/decta/index.md
     - dLocal: connectors/dlocal/index.md
-    - Dotpay: connectors/dotpay/index.md
+    - dotpay: connectors/dotpay/index.md
     - EasyBits.io: connectors/easybits/index.md
     - EasyPayRU: connectors/easypayru/index.md
+    - EasyTransfer: connectors/easytransfer/index.md
     - Ecobanq: connectors/ecobanq/index.md
     - ECommPay: connectors/ecommpay/index.md
     - Ecopayz: connectors/ecopayz/index.md
@@ -302,16 +305,15 @@ nav:
     - Exactly: connectors/exactly/index.md
     - FlashPay: connectors/flashpay/index.md
     - Fondy: connectors/fondy/index.md
-    - Forward Bank: connectors/forwardbank/index.md
     - Forta: connectors/forta/index.md
+    - Forward Bank: connectors/forwardbank/index.md
     - Genome: connectors/genome/index.md
-    - GeoPay: connectors/geopaynet/index.md
-    - GlobalMoney: connectors/globalmoney/index.md
+    - GEO pay: connectors/geopaynet/index.md
+    - Global Money: connectors/globalmoney/index.md
     - Hashconnect: connectors/hashconnect/index.md
     - Ibox Bank: connectors/iboxbank/index.md
     - ING Bank Poland: connectors/ingbankpl/index.md
     - Interkassa: connectors/interkassa/index.md
-    - IPayTotal: connectors/ipaytotal/index.md
     - Kassa: connectors/kassa/index.md
     - Klarna: connectors/klarna/index.md
     - Kuna: connectors/kuna/index.md
@@ -335,6 +337,7 @@ nav:
       #- PayMega.eu: connectors/paymega/index.md
     - PayMega.io: connectors/paymegaio/index.md
     - PaymentCenter: connectors/paymentcenter/index.md
+    - Payments Trust: connectors/paymentstrust/index.md
     - Paymentwall: connectors/paymentwall/index.md   
     - PayPal: connectors/paypal/index.md
     - Paysafe: connectors/paysafe/index.md
@@ -342,7 +345,7 @@ nav:
     - Paysage.io: connectors/paysage/index.md
     - PaySec: connectors/paysec/index.md
     - PaySoft: connectors/paysoft/index.md
-    - PerfectMoney: connectors/perfectmoney/index.md
+    - Perfect Money: connectors/perfectmoney/index.md
     - Piastrix: connectors/piastrix/index.md
     - Pivdenny Bank: connectors/pivdennybank/index.md
     - Platio: connectors/platio/index.md
@@ -355,7 +358,7 @@ nav:
     - RBK Money: connectors/rbkmoney/index.md
     - Royal Pay: connectors/royalpay/index.md
     - Russian Standard Bank: connectors/russianstandardbank/index.md
-    - SafeCharge: connectors/safecharge/index.md
+    - Nuvei (SafeCharge): connectors/safecharge/index.md
     - SatchelPay: connectors/satchelpay/index.md
     - SDK.finance: connectors/sdkfinance/index.md
     - Selcom: connectors/selcom/index.md     
@@ -367,6 +370,7 @@ nav:
     - TransferHub: connectors/transferhub/index.md
     - Tranzzo: connectors/tranzzo/index.md
     - TrustPay: connectors/trustpay/index.md
+    - Trust Payments: connectors/trustpayments/index.md
       #- Twelve.live: connectors/twelvelive/index.md
     - 2click: connectors/twoclick/index.md
     - UAPay: connectors/uapay/index.md
