@@ -56,11 +56,15 @@ Enter credentials:
 
 Select Test or Live mode according to the type of account to connect with Stripe and in that case, use the Stripe test keys pair.
 
-If you plan Apple Pay using, specify your Apple ID and registered domain and don't forget to set `apple_pay` as a feature.
-
 Toggle the 'Save Instant token' option to use instant payments.
 
-Choose Currencies and Features. You can set these parameters according to available currencies and features for your Stripe account, but it's necessary to verify the details of the connection with your {{custom.company_name}} account manager.
+Toggle the 'Dynamic descriptor' option if you need the possibility to override payment description.
+
+Choose Currencies and Features. You can set these parameters according to available currencies and features for your Stripe account, but it's necessary to verify the details of the connection with your {{custom.company_name}} account manager:
+
+* If you plan Apple Pay using, specify your Apple ID and registered domain and don't forget to set `apple_pay` as a feature.
+
+* If you plan using the card payment flow which has the 3DSecure verification skipped for your trusted clients, be sure to select the `non_3ds` feature.
 
 !!! success
     You have connected **Stripe** H2H merchant account!
