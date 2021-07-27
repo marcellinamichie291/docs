@@ -1,54 +1,49 @@
 <img src="https://static.openfintech.io/payment_providers/globalmoney/logo.svg?w=400" width="300px">
 
-# GlobalMoney Connector
+# GlobalMoney
 
-## Introduction
+!!! quote ""
+    Payment solution provider
 
-Here You can find  instructions for setting up **GlobalMoney**  account.
+**Website**: [GlobalMoney.ua](https://globalmoney.ua/ua/kontakty/)
 
-## Setup account
+Follow the guidance for setting up a connection with GlobalMoney payment service provider.
 
-#### Step 1 Contact with GlobalMoney support manager
+## Set Up Account
 
-Contact with GlobalMoney Support Manager to get help with creating. 
+### Step 1: Contact GlobalMoney support manager
 
+Send a request on the [website](https://globalmoney.ua/ua/kontakty/) or call the hotline. Submit the required documents to verify your account and gain access to the back office.
 
-#### Step 2: Get required credentials
+Create and activate your payout terminal.
 
-- **Login**
-    - Go to the "Terminals" list and find **Dealer** column
+### Step 2: Get credentials
 
-    ![Creds](images/creds.png)
+Go to the 'Terminals' --> 'Terminals' list. Copy the 'Dealer' parameter value for *Login* and the 'Terminal' parameter value for *Terminal*.
 
-- **Password**
-    - Ask GlobalMoney Support Manager for this parameter
+![List of terminals](images/creds.png)
 
-- **Terminal**
-    - Go to the "Terminals" list and find **Terminal** column
+Contact the GlobalMoney support to obtain the *Password* value.
 
-!!! success
-    You have configured account!
+!!! important
+    Be sure to check with the manager if you require to provide a white list of IPs, and if so, specify IP addresses from the [Corefy list](/integration/ips/).
 
+## Connect Provider Account
 
+### Step 1. Connect account at the {{custom.company_name}} Dashboard
 
+Press **Connect** at [*GlobalMoney Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/globalmoney/general) page in *'New connection'* and choose **Provider account** option to open Connection form.
 
-## Connect account
+![Connect](images/provider-account.png)
 
-#### Step 1: Copy required credentials
+Enter credentials:
 
-
-#### Step 2: Enter credentials
-
-- Login
-- Password
-- Terminal
-
-!!! tip
-    Press **`Connect`** at GlobalMoney **`Provider Overview page`** in **`New connection`** section to open Connection form!
-
-
-![Connect](images/globalmoney_connect.png)
-
+* Login
+* Password
+* Terminal
 
 !!! success
-    You have connected **GlobalMoney**!
+    You have connected **GlobalMoney** account!
+
+!!! question "Still looking for help connecting your GlobalMoney account?"
+    <!--email_off-->[Please contact our support team!](mailto:{{custom.support_email}})<!--/email_off-->
