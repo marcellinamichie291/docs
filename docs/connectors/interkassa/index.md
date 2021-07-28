@@ -1,113 +1,101 @@
 <img src="https://static.openfintech.io/payment_providers/interkassa/logo.svg?w=400" width="400px" >
 
-# Interkassa Connector
+# Interkassa
 
-## Introduction
+!!! quote ""
+    Accept online payments from customers worldwide
 
-Here You can find  instructions for setting up [**Interkassa** account](https://www.interkassa.com)!
+**Website**: [interkassa.com](https://www.interkassa.com/ua/)
 
+**Login**: [interkassa.com/login](https://www.interkassa.com/login)
 
-## Setup account
+Follow the guidance for setting up a connection with Interkassa payment service provider.
 
-#### Step 1: Configure API 
-- Open "Personal Data Settings"
+## Set Up Account
 
-![Step 1](images/interkassa-step1.png)
+### Step 1: Contact Interkassa support manager
 
-- Go to the API section
-- Set up parameters:
-    -  Add all necessary IP adressess to the White list, including  [{{custom.company_name}} white-list IP addresses](/integration/ips/)
-    -  "Turn ON" API
+Register an account on the [website](https://www.interkassa.com/registration) or send a request to the support team. Submit the required documents to verify your account and gain access.
 
-![Step 1](images/interkassa-step1_1.png)
+### Step 2: Set up API parameters
 
+Configure API parameters in the 'Personal cabinet' settings --> 'Personal Data' --> 'API' Settings:
 
- - Get required account parameters:   
-   
-    -  User ID
-    -  API key 
+![Personal cabinet settings](images/interkassa-step1.png)
 
-    !!! note
-        You may generate **`New API key`**!
-    
-    !!! warning
-        **Be careful!** Before generating **`New API key`** ensure that **`Existing API key`** is **NOT** used somewhere else.
+* Specify to 'IP filter' all necessary IP addresses including the [Corefy IP list](/integration/ips/)
+* Turn on API usage
 
-- Save changes
-#### Step 2: Create Checkout
+![API setup](images/interkassa-step1_1.png)
 
--  Ensure You are at **Checkout mode**
-    
-    ![Step 2](images/interkassa-step2.png)
+Get the API credentials:
 
--  Create new checkout
-    
-    ![Step 2](images/interkassa-step2_1.png)
+* User ID
+* API key
 
--  Set up  Site URL as ```https://{{custom.company_name}}```
-      
-    ![Step 2](images/interkassa-step2_2.png)
+!!! warning ""
+    Generate a new key if necessary but previously, make sure you don't use the existing one for another integration.
 
-#### Step 3: Configure Checkout
+### Step 3: Create and configure your Checkout
 
-- Open **_Checkout Settings_**
+Select 'Checkout mode' in the 'Personal cabinet' settings and create a new Checkout.
 
-    ![Step 3](images/interkassa-step3_1.png)
+![Checkout mode](images/interkassa-step2.png)
+![New Checkout](images/interkassa-step2_1.png)
 
-- Go to **_Payment Settings_** and set **Check the uniqueness of payments** to **`Enabled`**
-   
-    ![Step 3](images/interkassa-step3_2_1.png)
+Set up 'Site URL' as `https://paycore.io`.
 
-- Go to **_Paysystems_** and activate **at least 1** paysystem
+![Site URL](images/interkassa-step2_2.png)
 
-    ![Step 3](images/interkassa-step3_2.png)
+In the Checkout's settings, find 'Payment settings' and enable '*Check the uniqueness of payments*'.
 
-- Go to  **_Interface_** and ensure that  **`allow override in request`** under **`Interaction URL`** option is **`ENABLED`**
+![Checkout's settings](images/interkassa-step3_1.png)
+![Check the uniqueness of payments](images/interkassa-step3_2_1.png)
 
-- Go to **_Security_** and set up parameters:
-    -  Sign algorithm only **`SHA256`**
-    -  Require sign in payment form  **`Enabled`**
+In the 'Paysystems' section, activate at least one payment method.
 
-    ![Step 3](images/interkassa-step3_3.png)
+![Paysystems](images/interkassa-step3_2.png)
 
-- Get required checkout parameters
-    
-    -  Checkout ID
-    -  Sign key
-    -  Test key
-    
-        ![Step 3](images/interkassa-step3_4.png)
-        
-        ![Step 3](images/interkassa-step3_5.png)
+In the 'Interface' section, enable the '*allow override in request*' option for Interaction URL.
 
-!!! success
-    You have configured your account!
-    
-## Connect account
+![Interface](images/interkassa-step3_3_1.png)
 
-#### Step 1: Copy required credentials
+In the '*Security*', set up parameters:
 
--  User ID
--  API Key
--  Checkout ID
--  Sign key
--  Test key
+* Choose *SHA256* as Sign algorithm
+* Turn on *'Require sign in payment form'*
 
-#### Step 2: Enter credentials
+![Security](images/interkassa-step3_3.png)
 
--  User ID
--  API Key
--  Checkout ID
--  Sign key
--  Test key
+Finally, copy required checkout parameters:
 
-!!! tip
-    Press **`Connect`** at Interkassa **`Provider Overview page`** in **`New connection`** section to open Connection form!
+* Checkout ID
 
+![Checkout ID](images/interkassa-step3_5.png)
 
+* Sign key
+* Test key
 
-![Connect](images/interkassa_connect.png)
+![Keys](images/interkassa-step3_4.png)
 
+## Connect Provider Account
+
+### Step 1. Connect account at the {{custom.company_name}} Dashboard
+
+Press **Connect** at [*Interkassa Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/interkassa/general) page in *'New connection'* and choose **Provider account** option to open Connection form.
+
+![Connect](images/provider-account.png)
+
+Enter credentials:
+
+* User ID --> API User
+* API key
+* Checkout ID
+* Sign key --> Secret key
+* Test key --> Test secret key
 
 !!! success
-    You have connected **Interkassa**!
+    You have connected **Interkassa** account!
+
+!!! question "Still looking for help connecting your Interkassa account?"
+    <!--email_off-->[Please contact our support team!](mailto:{{custom.support_email}})<!--/email_off-->
