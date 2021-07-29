@@ -56,7 +56,9 @@ Enter credentials:
 * Point ID
 * Service ID
 
-Upload Private and Public keys. Toggle the 'Verify' option if you want to verify card requisites before payout processing.
+Upload Private and Public keys. Toggle the 'Card verification' option if you want to verify card requisites before payout processing.
+
+Turn on 'Random Defaults' if you need to fill in the missing data about the payee (a full name or address) by randomly generated parameters.
 
 Also, select Test or Live mode according to the type of account to connect with LeoGaming.
 
