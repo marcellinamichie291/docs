@@ -51,6 +51,9 @@ Enter credentials:
 * Wallet ID
 * API key
 * Email
+* Project ID
+
+Choose the external or internal *Payout fee mode* depending on your Kassa account settings.
 
 !!! success
     You have connected **Kassa** account!
@@ -73,7 +76,7 @@ Enter credentials:
 
 Select Test or Live mode according to the type of account to connect with Kassa. Switch the toggle '*Use two-step payments*' if this option is available for your Kassa account (clear that with the Kassa support).
 
-Choose Currencies and Features. You can set these parameters according to available currencies and features for your Kassa account, but it is necessary to check all details of the connection with your {{custom.company_name}} account manager.
+Choose Currencies and Features. You can set these parameters according to available currencies and features for your Kassa account, but it's necessary to check all details of the connection with your {{custom.company_name}} account manager.
 
 !!! success
     You have connected **Kassa** H2H merchant account!
