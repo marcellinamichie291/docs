@@ -84,7 +84,11 @@ Before processing, you can edit items in the batch overview line by line. To do 
 
 When all checks are completed, you can click the *Process* button and start processing the batch payouts.
 
-And if a part of transactions is still in `ready` status (prepared but not sent), you can stop processing with the *Terminate* button.
+The item status defines the stage of transaction processing. It can be transitional and final.
+
+![The batch item flow](images/payout-batch-flow.png)
+
+If a part of transactions is still in `ready` or `queued` status (prepared but not sent), you can stop processing with the *Terminate* button.
 
 ![Processing](images/batch-payouts-terminate.png)
 
