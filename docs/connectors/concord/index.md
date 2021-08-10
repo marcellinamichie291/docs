@@ -3,7 +3,7 @@
 # Concord Bank
 
 !!! quote ""
-    Concord Pay internet acquiring
+    Connect to the Universe with ConcordBank
 
 **Website**: [concord.ua](https://concord.ua/en)
 
@@ -15,7 +15,7 @@ Follow the guidance for setting up a connection with Concord bank as a payment s
 
 ### Step 1: Register at Concord Pay
 
-Send a request on the [website](https://pay.concord.ua/cabinet/default/signup). Submit the required information and documents to verify your account and gain access.
+Send a request on the [website](https://concord.ua/en) or call the hotline. Submit the required information and documents to verify your account and gain access.
 
 ### Step 2: Get credentials
 
