@@ -1,70 +1,78 @@
 <img src="https://static.openfintech.io/payment_providers/paybox/logo.svg?w=400" width="400px" >
 
-# Paybox Connector
+# PayBox
 
-## Introduction
+!!! quote ""
+    Accept payments on your website with PayBox.money: free connection and free of charge
 
-Here You can find  instructions for setting up  [**Paybox** account](https://my.paybox.money/)!
+**Website**: [paybox.money](https://paybox.money/kz_ru)
 
-## Setup account
+**Login**: [my.paybox.money](https://my.paybox.money/)
 
-#### Step 1: Connect to PayPox 
+Follow the guidance for setting up a connection with PayBox payment service provider.
 
--  Submit a questionnaire
--  Verify your documents
+## Set up account
 
-#### Step 2: Open Settings
+### Step 1: Contact PayBox support manager
 
-![Step 2](images/paybox-step1.png)
+Send a request on the [website](https://paybox.money/kz_ru/contacts) or call the hotline. Submit the required documents to verify your account and gain access.
 
-#### Step 3: Go to Merchant section (My markets)
+### Step 2: Set up your shop and get credentials
 
-![Step 3](images/paybox-step3.png)
+Go to the 'Settings' section --> 'Shops'. Set up general data about the Shop you connect in the {{custom.company_name}} platform.
 
+Set up secret keys for payments and payouts.
 
+![Signature key](images/signaturekey.png)
 
-#### Step 4: Configure your merchant
+In the 'System settings' block, configure integration URLs:
 
-- Set up parameters:
-    -  General merchant info
-    -  Secret keys
-        - For Payout
+* *RESULT URL* `https://psp-ext.paycore.io/paybox/callback`
+* *SUCCESS URL* `https://psp-ext.paycore.io/paybox/return`
+* *FAILURE URL* `https://psp-ext.paycore.io/paybox/return`
 
-    ![Step 4](images/paybox-step4.png)
+Set *REQUEST METHOD* as `POST`.
 
-    -  URLs
-        - RESULT URL    ```https://psp-ext.paycore.io/paybox/callback```
-        - SUCCESS ```https://psp-ext.paycore.io/paybox/return```
-        - FAILURE URL ```https://psp-ext.paycore.io/paybox/return```
-        
-        
-    -  REQUEST METHOD ```POST```
-    
-    ![Step 4](images/paybox-step5.png)
+![Setup URLs](images/system-settings.png)
 
-!!! success
-    You have configured your account!
-    
-## Connect account
+!!! important
+    Be sure to check with the manager if you require to provide a white list of IPs, and if so, specify IP addresses from the [Corefy list](/integration/ips/).
 
-#### Step 1: Copy required credentials
+## Connect Provider Account
 
--  Merchant ID
--  Secret key (_for payout_)
+### Step 1. Connect account at the {{custom.company_name}} Dashboard
 
-#### Step 2: Enter credentials
+Press **Connect** at [*PayBox Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/paybox/general) page in *'New connection'* and choose **Provider account** option to open Connection form.
 
--  Merchant ID
--  Secret key (_for payout_)
+![Connect](images/provider-account.png)
 
+Enter credentials:
 
-!!! tip
-    Press **`Connect`** at Paybox **`Provider Overview page`** in **`New connection`** section to open Connection form!
-
-
-
-![Connect](images/paybox_connect.png)
-
+* your Shop merchant ID
+* Signature key (for payouts)
 
 !!! success
-    You have connected **Paybox**!
+    You have connected **PayBox** account!
+
+## Connect H2H Merchant Account
+
+### Step 1. Connect H2H account at the {{custom.company_name}} Dashboard
+
+Press **Connect** at [*PayBox Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/paybox/general) page in *'New connection'* and choose **H2H Merchant account** option to open Connection form.
+
+![Connect](images/h2h-merchant-account.png)
+
+Enter credentials:
+
+* your Shop merchant ID
+* Signature key for payments
+
+Select Test or Live mode according to the type of account to connect with PayBox. Also, choose the *Save Instant Token* option if you plan to use the account for instant payments.
+
+Choose Currencies and Features. You can set these parameters according to available currencies and features for your PayBox account, but it's necessary to verify details of the connection with your {{custom.company_name}} account manager.
+
+!!! success
+    You have connected **PayBox** H2H merchant account!
+
+!!! question "Still looking for help connecting your PayBox account?"
+    <!--email_off-->[Please contact our support team!](mailto:{{custom.support_email}})<!--/email_off-->
