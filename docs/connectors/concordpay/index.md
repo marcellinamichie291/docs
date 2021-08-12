@@ -36,7 +36,7 @@ Enter credentials:
 
 * Client code name
 * Private Key
-* Public key (optionally)
+* Public key (optional: only for **wholly new** accounts; if you entirely set up your account at the provider side, you shouldn't specify its Public key at the *{{custom.company_name}} Dashboard*)
 
 Select Test or Live mode according to the type of account to connect with ConcordPay.
 
@@ -55,7 +55,7 @@ Enter credentials:
 
 * Client code name
 * Private Key
-* Public key (optionally)
+* Public key (optional: only for **wholly new** accounts; if you entirely set up your account at the provider side, you shouldn't specify its Public key at the *{{custom.company_name}} Dashboard*)
 
 Choose your API type and Fee calculation type.
 
