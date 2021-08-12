@@ -64,7 +64,7 @@ Press **Connect** at [*Piastrix Provider Overview*]({{custom.dashboard_base_url}
 
 Enter credentials:
 
-* Project ID
+* Project ID (optionally)
 * Shop ID --> Merchant ID
 * Secret key
 
@@ -83,7 +83,7 @@ Press **Connect** at [*Piastrix Provider Overview*]({{custom.dashboard_base_url}
 
 Enter credentials:
 
-* Project ID
+* Project ID (optionally)
 * Shop ID --> Merchant ID
 * Secret key
 
