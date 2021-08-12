@@ -17,7 +17,7 @@ Send a request on the [website](https://www.xpate.com/). Submit the required doc
 
 ### Step 2: Get credentials
 
-Credentials that have to be issued:
+Credentials that have to be issued to connect the provider account:
 
 * Brand ID
 * `Bearer` API Key
@@ -26,7 +26,10 @@ Find it in the *API* section of the UI.
 
 ![xpate UI](images/api-xpate-ui.png)
 
-If you’re going to set up a H2H connection, you will also need the Server Token.
+If you’re going to set up a H2H connection, you require:
+
+* Control key (`merchant_control`)
+* Endpoint ID (`endpointid`) related to the currency that you plan to use
 
 !!! important
     Be sure to check with the manager if you require to provide a white list of IPs, and if so, specify IP addresses from the [Corefy list](/integration/ips/).
@@ -59,11 +62,14 @@ Press **Connect** at [*xpate Provider Overview*]({{custom.dashboard_base_url}}co
 
 Enter credentials:
 
-* Brand ID
-* API Key as Secret Key
-* Server Token
+* Login
+* Password
+* Control key
+* Endpoint ID
 
-Choose Currency and Features. You can set these parameters according to available currencies and features for your xpate account, but it is necessary to check details of the connection with your {{custom.company_name}} account manager.
+Select Test or Live mode according to the type of account to connect with xpate.
+
+Choose Currency and Features. You can set these parameters according to available currencies and features for your xpate account, but it's necessary to check details of the connection with your {{custom.company_name}} account manager.
 
 !!! success
     You have connected **xpate** H2H merchant account!
