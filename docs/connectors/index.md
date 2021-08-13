@@ -116,6 +116,7 @@ deprecated:
 | <img src="https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=70" width="70px"> | [Rapyd.net](rapyd/) | Payouts, Account balances  | [according to the provider account settings] |
 | <img src="https://static.openfintech.io/payment_providers/rbkmoney/logo.png?w=70" width="70px">  | [RBK Money](rbkmoney/) | H2H connection, Payouts, Account balances   | EUR, RUB, USD |
 | <img src="https://static.openfintech.io/payment_providers/royalpay/logo.svg?w=90" width="90px"> | [Royal Pay](royalpay/) | H2H connection, Payouts, Account balances | RUB |
+| <img src="https://static.openfintech.io/payment_providers/rubikonsoft/logo.png?w=90" width="90px"> | [Rubikon Soft](rubikonsoft/) |Payouts | [according to the provider account settings] |
 | <img src="https://static.openfintech.io/payment_providers/russianstandardbank/logo.png?w=70" width="70px">  | [Russian Standard Bank](russianstandardbank/) | H2H connection | RUB |
 | <img src="https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=90" width="90px"> | [SafeCharge](safecharge/) | H2H connection, Payouts | AUD, CAD, CHF, EUR, GBP, PLN, USD  |
 | <img src="https://static.openfintech.io/payment_providers/satchelpay/logo.svg?w=90" width="90px"> | [SatchelPay](satchelpay/)  | Payouts, Account balances | [according to the provider account settings] |

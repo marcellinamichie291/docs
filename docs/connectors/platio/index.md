@@ -27,6 +27,8 @@ Credentials that have to be issued:
 * Secret Key
 * Secret Key for Result URL
 
+For the H2H connection, you also should know an API type to interact with Platio.
+
 ## Connect Provider Account
 
 ### Step 1. Connect account at the {{custom.company_name}} Dashboard
@@ -60,7 +62,7 @@ Enter credentials:
 * Secret Key
 * Secret Key for Result URL as Secret Key Return URL
 
-Select Test or Live mode according to the type of account to connect.
+Select Test or Live mode according to the type of account to connect. Choose your API type.
 
 Enable *Send Merchant URL* option for sending the Merchant's shop URL to Platio.
 
