@@ -35,5 +35,23 @@ Choose currencies according to available currencies for your Forta account and c
 !!! success
     You have connected **Forta** provider account!
 
+## Connect H2H merchant account
+
+### Step 1. Connect H2H account at the {{custom.company_name}} Dashboard
+
+Press **Connect** at [*Forta Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/forta/general) page in *'New connection'* and choose **H2H Merchant account** option to open Connection form.
+
+![Connect](images/h2h-merchant-account.png)
+
+Enter credentials:
+
+* API key
+* API URL
+
+Choose Features according to available features for your Forta account, but it's necessary to verify details of the connection with your {{custom.company_name}} account manager.
+
+!!! success
+    You have connected **Forta** H2H merchant account!
+
 !!! question "Still looking for help connecting your Forta account?"
     <!--email_off-->[Please contact our support team!](mailto:{{custom.support_email}})<!--/email_off-->
