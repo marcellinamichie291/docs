@@ -36,8 +36,9 @@ Below is the complete list of {{custom.company_name}} supported currencies. **Ze
 |   KES    | Kenyan shilling                       |   ZAR    | South African rand                     |
 |   KGS    | Kyrgyzstani som                       |          |                                        |
 |          |                                       |          |                                        |
-|   BCH    | Bitcoin Cash                          |   ETH    | Ethereum                               |
-|   BTC    | Bitcoin                               |   LTC    | Litecoin                               |
+|   BCH    | Bitcoin Cash                          |   LTC    | Litecoin                               |
+|   BTC    | Bitcoin                               |   USDT   | Tether                                 |
 |   DASH   | Dash                                  |   XRP    | Ripple                                 |
+|   ETH    | Ethereum                              |          |                                        |
 
 [^1]: **Zero-decimal currencies** have smallest currency unit same as its primary currency unit and therefore do not have any decimal parts.

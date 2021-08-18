@@ -15,6 +15,8 @@ Follow the guidance for setting up a connection with ConcordPay as a payment ser
 
 ### Step 1: Register at ConcordPay
 
+Sign up on the ConcordPay portal using the (authorisation form)[https://pay.concord.ua/cabinet/default/signup]. Set up your account and contact the ConcordPay support team.
+
 ### Step 2: Get credentials
 
 After registration, you obtain a unique client code name and also generate on your side a pair of RSA keys: public and private in the PEM (pkcs8) format. Contact your ConcordPay support manager if you have any complications with obtaining credentials.
