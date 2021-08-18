@@ -2,7 +2,7 @@
 
 # Manual Connector
 
-The manual connector serves as an auxiliary tool for Swift and Bank transfer payment methods. Follow the guidance for setting it up.
+The manual connector serves as an auxiliary tool for Swift, Cash and Bank transfer payment and payouts methods. Follow the guidance for setting it up.
 
 ## Connect Account
 

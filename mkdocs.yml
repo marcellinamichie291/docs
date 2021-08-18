@@ -256,7 +256,7 @@ nav:
     - Public IPs: integration/ips.md
 - Connectors:
     - Overview: connectors/index.md
-    - CardGate: 
+    - Card Gateway: 
         - Overview: connectors/cardgate/index.md
         - Test Card Payments: connectors/test/test-card-numbers.md
     - Test: connectors/test/index.md
@@ -275,6 +275,7 @@ nav:
     - AdvCash: connectors/advcash/index.md
     - Alfa Bank: connectors/alfabank/index.md
     - Alikassa: connectors/alikassa/index.md
+    - AML Node: connectors/amlnode/index.md
     - AnyCash: connectors/anycash/index.md
     - Any.Money: connectors/anymoney/index.md
     - Axcess Merchant Services: connectors/axcessmerchantservices/index.md
@@ -363,12 +364,14 @@ nav:
     - SDK.finance: connectors/sdkfinance/index.md
     - Selcom: connectors/selcom/index.md     
     - Skrill: connectors/skrill/index.md
+    - Spoynt: connectors/spoynt/index.md
     - Square: connectors/square/index.md
     - Stripe: connectors/stripe/index.md   
     - TKB pay: connectors/tkbpay/index.md
     - tome: connectors/tome/index.md
     - TransferHub: connectors/transferhub/index.md
     - Tranzzo: connectors/tranzzo/index.md
+    - Transact World: connectors/transactworld/index.md
     - TrustPay: connectors/trustpay/index.md
     - Trust Payments: connectors/trustpayments/index.md
       #- Twelve.live: connectors/twelvelive/index.md
@@ -386,6 +389,7 @@ nav:
     - Zotapay: connectors/zotapay/index.md
 - Changelog: 
     - Overview: release-notes/index.md
+    - August 10, 2021 (1.83-1.93): release-notes/v1.83-1.93.md
     - July 8, 2021 (1.76-1.82): release-notes/v1.76-1.82.md
     - June 9, 2021 (1.66-1.75): release-notes/v1.66-1.75.md
     - May 13, 2021 (1.54-1.65): release-notes/v1.54-1.65.md

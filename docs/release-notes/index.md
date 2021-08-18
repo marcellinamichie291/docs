@@ -6,6 +6,15 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
+### [August 5, 2021 (versions 1.93, 1.92, 1.91, 1.90, 1.89, 1.88, 1.87, 1.86, 1.85, 1.84, & 1.83)](v1.83-1.93/)
+
+* [Routing updates](v1.83-1.93/#routing-updates): added option for service auto-enabling
+* [Processing updates](v1.83-1.93/#processing-updates): added `processed` timestamp to all final statuses of payment and payout invoices, added a `queued` status for items in batch payouts
+* [Card Gateway updates](v1.83-1.93/#card-gateway-updates): added the turnover limit for merchant accounts, new routing and modifier scheme attributes, new resolution for cascading, `cash` payment and payout methods for manual transactions, changed handling asynchronous failures process
+* [Analytics update](v1.83-1.93/#analytics-update): new attributes for data source
+* [Addons updates](v1.83-1.93/#addons-updates): added IP filter to restrict API requests for the addons with external usage, NBU registration data tabs for payment and payout entries
+* And various [performance improvements](v1.83-1.93/#performance-improvements)
+
 ### [July 8, 2021 (versions 1.82, 1.81, 1.80, 1.79, 1.78, 1.77, & 1.76)](v1.76-1.82/)
 
 * [Commerce updates](v1.76-1.82/#commerce-updates): added the `company_phone` and `country_code` parameters to the `merchant_profile` object
