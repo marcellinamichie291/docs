@@ -26,6 +26,24 @@ You also provide your email and get a registration in the bank digital system, a
 !!! important
     Be sure to check with the bank manager if you require to provide a white list of IPs, and if so, specify IP addresses from the [Corefy list](/integration/ips/).
 
+## Connect Provider Account
+
+### Step 1. Connect account at the {{custom.company_name}} Dashboard
+
+Press **Connect** at [*PUMB Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/pumb/general) page in *'New connection'* and choose **Provider account** option to open Connection form.
+
+![Connect](images/provider-account.png)
+
+Enter credentials:
+
+* User login to the bank digital system
+* User password
+
+Select Test or Live mode according to the type of account to connect with PUMB.
+
+!!! success
+    You have connected **PUMB** account!
+
 ## Connect H2H Merchant account
 
 ### Step 1. Connect H2H account at the {{custom.company_name}} Dashboard
@@ -36,15 +54,14 @@ Press **Connect** at [*PUMB Provider Overview*]({{custom.dashboard_base_url}}con
 
 Enter credentials:
 
-* Merchant ID
-* Account ID
-* API URL
-* Portal ID
-
-Optional fields (to carry the refunds through {{custom.company_name}} system):
-
+* Merchant ID (obligatory)
+* Account ID (obligatory)
 * User login to the bank digital system
 * User password
+* API URL --> Base URL
+* Portal ID
+
+Choose your account type according to settings of the bank merchant account.
 
 Choose Currencies and Features. You can set these parameters according to available currencies and features for your PUMB account, but it's necessary to check details of the connection with your {{custom.company_name}} account manager.
 

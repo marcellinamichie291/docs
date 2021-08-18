@@ -97,5 +97,26 @@ Enter credentials:
 !!! success
     You have connected **Interkassa** account!
 
+## Connect H2H Merchant Account
+
+### Step 1. Connect H2H account at the {{custom.company_name}} Dashboard
+
+Press **Connect** at [*Interkassa Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/interkassa/general) page in *'New connection'* and choose **H2H Merchant account** option to open Connection form.
+
+![Connect](images/h2h-merchant-account.png)
+
+Enter credentials:
+
+* User ID --> API User
+* API key
+* Checkout ID
+* Sign key --> Secret key
+* Payway — Payment directions code's alias (for example, `mastercard_cpaytrz_merchant_usd`). You can find the complete list of actual codes in the [Interkassa documentation](https://docs.interkassa.com/#section/7.-Spravochnik) and select the payway you want to connect.
+
+Choose currency related to the selected payway. Choose features: `only_3ds`, `required_3ds_v1`,`required_3ds_v2`, but verify their availability with your {{custom.company_name}} account manager.
+
+!!! success
+    You have connected **Interkassa** H2H merchant account!
+
 !!! question "Still looking for help connecting your Interkassa account?"
     <!--email_off-->[Please contact our support team!](mailto:{{custom.support_email}})<!--/email_off-->
