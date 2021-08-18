@@ -1,4 +1,4 @@
-<img src="https://static.openfintech.io/payment_providers/name/logo.svg?w=400" width="400px" >
+<img src="https://static.openfintech.io/payment_providers/crosspay/logo.png?w=400" width="400px" >
 
 # CrossPay
 
@@ -40,8 +40,6 @@ Also, select Test or Live mode according to the type of account to connect with 
 !!! success
     You have connected **CrossPay** account!
 
-<!--
-
 ## Connect H2H Merchant Account
 
 ### Step 1. Connect H2H account at the {{custom.company_name}} Dashboard
@@ -52,14 +50,15 @@ Press **Connect** at [*CrossPay Provider Overview*]({{custom.dashboard_base_url}
 
 Enter credentials:
 
-[//]: # (Select Test or Live mode according to the type of account to connect with CrossPay.)
+* Public Key
+* Secret Key
+
+Select Test or Live mode according to the type of account to connect with CrossPay.
 
 Choose Currency and Features. You can set these parameters according to available currencies and features for your CrossPay account, but it is necessary to check details of the connection with your {{custom.company_name}} account manager.
 
 !!! success
     You have connected **CrossPay** H2H merchant account!
-
--->
 
 !!! question "Still looking for help connecting your CrossPay account?"
     <!--email_off-->[Please contact our support team!](mailto:{{custom.support_email}})<!--/email_off-->
