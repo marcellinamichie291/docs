@@ -6,7 +6,7 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
-### [August 5, 2021 (versions 1.93, 1.92, 1.91, 1.90, 1.89, 1.88, 1.87, 1.86, 1.85, 1.84, & 1.83)](v1.83-1.93/)
+### [August 10, 2021 (versions 1.93, 1.92, 1.91, 1.90, 1.89, 1.88, 1.87, 1.86, 1.85, 1.84, & 1.83)](v1.83-1.93/)
 
 * [Routing updates](v1.83-1.93/#routing-updates): added option for service auto-enabling
 * [Processing updates](v1.83-1.93/#processing-updates): added `processed` timestamp to all final statuses of payment and payout invoices, added a `queued` status for items in batch payouts

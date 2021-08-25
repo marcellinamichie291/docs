@@ -65,4 +65,5 @@
 *[DASH]: Dash (cryptocurrency)
 *[ETH]: Ethereum
 *[LTC]: Litecoin
+*[USDT]: Tether
 *[XRP]: Ripple
