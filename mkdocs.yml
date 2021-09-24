@@ -390,6 +390,7 @@ nav:
     - Zotapay: connectors/zotapay/index.md
 - Changelog: 
     - Overview: release-notes/index.md
+    - September 9, 2021 (1.94-1.103): release-notes/v1.94-1.103.md
     - August 10, 2021 (1.83-1.93): release-notes/v1.83-1.93.md
     - July 8, 2021 (1.76-1.82): release-notes/v1.76-1.82.md
     - June 9, 2021 (1.66-1.75): release-notes/v1.66-1.75.md
