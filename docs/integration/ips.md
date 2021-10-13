@@ -23,15 +23,6 @@ The list of IP addresses that {{custom.company_name}} uses to interact with paym
 3.126.246.226
 3.127.19.165
 3.126.219.223
-3.65.180.235
-```
-
-The following IP addresses are also in use but will be deprecated in the nearest future:
-
-``` html
-54.36.117.30
-51.38.147.254
-54.38.139.222
 ```
 
 ## Downloading IP address lists
