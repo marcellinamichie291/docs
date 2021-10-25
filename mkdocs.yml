@@ -269,123 +269,145 @@ nav:
       #- Payoneer: connectors/payoneer/index.md
       #- 123x: connectors/123x/index.md
       #- IPayTotal: connectors/ipaytotal/index.md
+      #- PaySec: connectors/paysec/index.md
+      #- TransferHub: connectors/transferhub/index.md
+    - 2click: connectors/twoclick/index.md
     - 4bill: connectors/4bill/index.md
     - Accentpay: connectors/accentpay/index.md
     - ADgroup: connectors/adgroup/index.md
-    - AdvCash: connectors/advcash/index.md
+    - AdvCash: connectors/advcash/index.md    
     - Alfa Bank: connectors/alfabank/index.md
     - Alikassa: connectors/alikassa/index.md
     - AML Node: connectors/amlnode/index.md
-    - AnyCash: connectors/anycash/index.md
+    - any.cash: connectors/anycash/index.md
     - Any.Money: connectors/anymoney/index.md
+    - appexmoney: connectors/appexmoney/index.md
     - Axcess Merchant Services: connectors/axcessmerchantservices/index.md
     - Bank Onego: connectors/bankonego/index.md
+    - BetaTransfer: connectors/betatransfer/index.md
     - Billline: connectors/billline/index.md
-    - Unlimint (CardPay): connectors/cardpay/index.md
+    - BlackRabbit: connectors/blackrabbit/index.md
     - Cashfree: connectors/cashfree/index.md
     - Cauri: connectors/cauri/index.md
     - Certus Finance: connectors/certusfinance/index.md
+    - Changecoins: connectors/changcoinspay/index.md
     - CoinGate: connectors/coingate/index.md
     - CoinsPaid: connectors/coinspaid/index.md      
-    - ComInBank: connectors/cib/index.md
+    - Commercial Industrial Bank: connectors/cib/index.md
     - Concord Bank: connectors/concord/index.md
     - Concordpay: connectors/concordpay/index.md
     - Connectum: connectors/connectum/index.md
     - CrossPay: connectors/crosspay/index.md
     - Cypix: connectors/cypix/index.md
     - Decta: connectors/decta/index.md
+    - Dialup: connectors/dialup/index.md
+    - DixonPay: connectors/dixonpay/index.md
     - dLocal: connectors/dlocal/index.md
     - dotpay: connectors/dotpay/index.md
+    - e.Cascad: connectors/ecascad/index.md
     - EasyBits.io: connectors/easybits/index.md
     - EasyPayRU: connectors/easypayru/index.md
     - EasyTransfer: connectors/easytransfer/index.md
     - Ecobanq: connectors/ecobanq/index.md
-    - ECommPay: connectors/ecommpay/index.md
-    - Ecopayz: connectors/ecopayz/index.md
+    - ECommPay: connectors/ecommpay/index.md 
+    - ecoPayz: connectors/ecopayz/index.md
+    - Emerald24: connectors/emerald24/index.md
     - ePay: connectors/epay/index.md
-    - Exactly: connectors/exactly/index.md
+    - exactly.: connectors/exactly/index.md
     - FlashPay: connectors/flashpay/index.md
     - Fondy: connectors/fondy/index.md
     - Forta: connectors/forta/index.md
     - Forward Bank: connectors/forwardbank/index.md
-    - Genome: connectors/genome/index.md
     - GEO pay: connectors/geopaynet/index.md
+    - Genome: connectors/genome/index.md
+    - Getapay: connectors/getapay/index.md
     - Global Money: connectors/globalmoney/index.md
+    - Globalfin (ex. WinPay): connectors/winpay/index.md
+    - GumBallPay: connectors/gumballpay/index.md
     - Hashconnect: connectors/hashconnect/index.md
-    - Ibox Bank: connectors/iboxbank/index.md
     - ING Bank Poland: connectors/ingbankpl/index.md
+    - Ibox Bank: connectors/iboxbank/index.md
+    - Ikajo: connectors/ikajo/index.md
     - Interkassa: connectors/interkassa/index.md
     - Kassa: connectors/kassa/index.md
     - Klarna: connectors/klarna/index.md
-    - Kuna: connectors/kuna/index.md
     - Kuna Pay: connectors/kunapay/index.md
+    - Kuna: connectors/kuna/index.md
     - Leogaming: connectors/leogaming/index.md
     - LiqPay: connectors/liqpay/index.md
     - MaxPay: connectors/maxpay/index.md
     - Mercuryo: connectors/mercuryo/index.md
     - Mine.Exchange: connectors/mineexchange/index.md
+    - MoneyPay: connectors/moneypay/index.md
     - MuchBetter: connectors/muchbetter/index.md
     - Neteller: connectors/neteller/index.md
+    - NixMoney: connectors/nixmoney/index.md
+    - Nuvei (ex. SafeCharge): connectors/safecharge/index.md
+    - Octopayz: connectors/octopayz/index.md
+    - OPay: connectors/opay/index.md
     - Odysseq: connectors/odysseq/index.md
     - Offsetpay: connectors/offsetpay/index.md
+    - PSPGate: connectors/pspgate/index.md
+    - PUMB (FUIB): connectors/pumb/index.md
     - Parimatch: connectors/parimatch/index.md
-    - pay2kassa: connectors/pay2kassa/index.md
+    - Pay-logic: connectors/paylogic/index.md
+    - pay2kassa: connectors/pay2kassa/index.md    
     - PayBox: connectors/paybox/index.md
+    - PayClub: connectors/payclub/index.md
     - PayDoo: connectors/paydoo/index.md
     - Payeer: connectors/payeer/index.md
     - PayLink: connectors/paylink/index.md
-    - Paylogic: connectors/paylogic/index.md
-      #- PayMega.eu: connectors/paymega/index.md
     - PayMega.io: connectors/paymegaio/index.md
-    - PaymentCenter: connectors/paymentcenter/index.md
+    - Payment Center: connectors/paymentcenter/index.md
     - Payments Trust: connectors/paymentstrust/index.md
     - Paymentwall: connectors/paymentwall/index.md   
     - PayPal: connectors/paypal/index.md
+    - PayPound: connectors/paypound/index.md
     - Paysafe: connectors/paysafe/index.md
-    - paysafecard: connectors/paysafecard/index.md
+    - paysafecard: connectors/paysafecard/index.md 
     - Paysage.io: connectors/paysage/index.md
-    - PaySec: connectors/paysec/index.md
     - PaySoft: connectors/paysoft/index.md
     - Perfect Money: connectors/perfectmoney/index.md
     - Piastrix: connectors/piastrix/index.md
     - Pivdenny Bank: connectors/pivdennybank/index.md
     - Platio: connectors/platio/index.md
+    - PMSolutions: connectors/pmsolutions/index.md
     - Portmone.com: connectors/portmone/index.md
     - Procard: connectors/procard/index.md
-    - PSPGate: connectors/pspgate/index.md
-    - PUMB (FUIB): connectors/pumb/index.md
+    - Qiwi: connectors/qiwi/index.md
     - Raiffeisen Bank: connectors/raiffeisenbank/index.md
     - Rapyd.net: connectors/rapyd/index.md
     - RBK Money: connectors/rbkmoney/index.md
+    - REEL: connectors/reel/index.md
     - Royal Pay: connectors/royalpay/index.md
     - Rubikon Soft: connectors/rubikonsoft/index.md
     - Russian Standard Bank: connectors/russianstandardbank/index.md
-    - Nuvei (SafeCharge): connectors/safecharge/index.md
-    - SatchelPay: connectors/satchelpay/index.md
     - SDK.finance: connectors/sdkfinance/index.md
+    - SatchelPay: connectors/satchelpay/index.md
     - Selcom: connectors/selcom/index.md     
     - Skrill: connectors/skrill/index.md
+    - Solid: connectors/solidgate/index.md
     - Spoynt: connectors/spoynt/index.md
     - Square: connectors/square/index.md
-    - Stripe: connectors/stripe/index.md   
+    - Stripe: connectors/stripe/index.md
     - TKB pay: connectors/tkbpay/index.md
-    - tome: connectors/tome/index.md
-    - TransferHub: connectors/transferhub/index.md
-    - Tranzzo: connectors/tranzzo/index.md
+    - Tinkoff Bank: connectors/tinkoff/index.md  
+    - tome: connectors/tome/index.md  
     - Transact World: connectors/transactworld/index.md
+    - Tranzzo: connectors/tranzzo/index.md
+    - Trust Payments: connectors/trustpayments/index.md    
     - TrustPay: connectors/trustpay/index.md
-    - Trust Payments: connectors/trustpayments/index.md
-      #- Twelve.live: connectors/twelvelive/index.md
-    - 2click: connectors/twoclick/index.md
     - UAPay: connectors/uapay/index.md
     - UKRGASBANK: connectors/ukrgasbank/index.md
+    - Unlimint (ex. CardPay): connectors/cardpay/index.md
     - VCreditos: connectors/vcreditos/index.md
-    - WinPay: connectors/winpay/index.md
+    - VOLT: connectors/volt/index.md
+    - WhiteBIT: connectors/whitebit/index.md
+    - WPayments: connectors/wpayments/index.md
     - Wirecapital: connectors/wirecapital/index.md
     - Wirecard: connectors/wirecard/index.md
     - WonderlandPay: connectors/wlandpay/index.md
-    - WPayments: connectors/wpayments/index.md
-    - xpate: connectors/xpate/index.md
+    - xpate: connectors/xpate/index.md 
     - Xpay: connectors/xpayua/index.md
     - Zotapay: connectors/zotapay/index.md
 - Changelog: 

@@ -5,7 +5,6 @@
 > The first genuine drag-and-drop payment experience in the world
 
 **Website**: [xpate.com](https://www.xpate.com/)
-**Login**: [beta early access](https://app.xpate.com/login)
 
 Follow the guidance for setting up a connection with xpate payment service provider.
 
@@ -19,15 +18,8 @@ Send a request on the [website](https://www.xpate.com/). Submit the required doc
 
 Credentials that have to be issued to connect the provider account:
 
-* Brand ID
-* `Bearer` API Key
-
-Find it in the *API* section of the UI.
-
-![xpate UI](images/api-xpate-ui.png)
-
-If you’re going to set up a H2H connection, you require:
-
+* Brand ID (Login)
+* Consumer secret key
 * Control key (`merchant_control`)
 * Endpoint ID (`endpointid`) related to the currency that you plan to use
 
@@ -67,7 +59,7 @@ Enter credentials:
 * Control key
 * Endpoint ID
 
-Select Test or Live mode according to the type of account to connect with xpate.
+Select Test or Live mode according to the type of account to connect with xpate. Select *Multicurrency integration* if you connect the xpate account with more than one related currency.
 
 Choose Currency and Features. You can set these parameters according to available currencies and features for your xpate account, but it's necessary to check details of the connection with your {{custom.company_name}} account manager.
 

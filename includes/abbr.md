@@ -1,4 +1,3 @@
-*[H2H]: A host-to-host connection method requires a direct connection and enables the automated transfer and processing of payments with related connector
 *[AED]: The United Arab Emirates (Emirati) dirham
 *[AMD]: The Armenian dram
 *[ARS]: The Argentine peso
@@ -61,8 +60,10 @@
 *[VND]: The Vietnamese đồng
 *[ZAR]: The South African rand
 *[BCH]: Bitcoin Cash
+*[BNB]: Binance Coin
 *[BTC]: Bitcoin
 *[DASH]: Dash (cryptocurrency)
+*[DOGE]: Dogecoin
 *[ETH]: Ethereum
 *[LTC]: Litecoin
 *[USDT]: Tether
