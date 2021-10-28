@@ -6,6 +6,14 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
+### [September 9, 2021 (versions 1.103, 1.102, 1.101, 1.100, 1.99, 1.98, 1.97, 1.96, 1.95, & 1.94)](v1.94-1.103/)
+
+* [Commerce updates](#commerce-updates): made invoice reference ID optional so now generate UUID randomly; added the `active-payment` object to payment invoice reconciliation
+* Updated [addon creating](#addon-updates)
+* [New Analytics tables and columns](#new-analytics-tables)
+* Updated [Telegram bot](#telegram-bot) functionality
+* And other performance improvements
+
 ### [August 10, 2021 (versions 1.93, 1.92, 1.91, 1.90, 1.89, 1.88, 1.87, 1.86, 1.85, 1.84, & 1.83)](v1.83-1.93/)
 
 * [Routing updates](v1.83-1.93/#routing-updates): added option for service auto-enabling
