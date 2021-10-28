@@ -6,9 +6,16 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
+### [October 12, 2021 (versions 1.112, 1.111, 1.110, 1.109, 1.108, 1.107, 1.106, 1.105, 1.104, & 1.103)](v1.103-1.112/)
+
+* [Provider accounts update](#provider-accounts-update): added possibility to check account credentials from the Dashboard
+* [Commerce updates](#commerce-updates): added the *Auto-approve* option for transactions  within an organisation, added the *Resolution message* attribute for payment invoices
+* [Card gate HPP update](#card-gate-hpp-update): added the theme option for customer redirection only after final statuses
+* Performance improvements
+
 ### [September 9, 2021 (versions 1.103, 1.102, 1.101, 1.100, 1.99, 1.98, 1.97, 1.96, 1.95, & 1.94)](v1.94-1.103/)
 
-* [Commerce updates](#commerce-updates): made invoice reference ID optional so now generate UUID randomly; added the `active-payment` object to payment invoice reconciliation
+* [Commerce updates](#commerce-updates): made invoice reference ID optional so now generate UUID randomly
 * Updated [addon creating](#addon-updates)
 * [New Analytics tables and columns](#new-analytics-tables)
 * Updated [Telegram bot](#telegram-bot) functionality
