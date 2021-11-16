@@ -44,7 +44,7 @@ Enter credentials:
 * Merchant ID → Merchant
 * Signature key
 
-Choose your fee type: Internal or External according to your Mine.Exchange account settings.
+Choose your fee type: Internal or External according to your Any.Money account settings.
 
 !!! success "Just right"
     You have connected **Any.Money** account!
