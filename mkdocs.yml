@@ -262,15 +262,6 @@ nav:
     - Test: connectors/test/index.md
     - Manual: connectors/manual/index.md
     - External Provider: connectors/externalprovider/index.md
-      #- AustralPay: connectors/australpay/index.md
-      #- CoinPayments:connectors/coinpayments/index.md
-      #- Enfins: connectors/enfins/index.md
-      #- MoneyMovers: connectors/moneymovers/index.md
-      #- Payoneer: connectors/payoneer/index.md
-      #- 123x: connectors/123x/index.md
-      #- IPayTotal: connectors/ipaytotal/index.md
-      #- PaySec: connectors/paysec/index.md
-      #- TransferHub: connectors/transferhub/index.md
     - 2click: connectors/twoclick/index.md
     - 4bill: connectors/4bill/index.md
     - Accentpay: connectors/accentpay/index.md
@@ -299,12 +290,12 @@ nav:
     - Connectum: connectors/connectum/index.md
     - CrossPay: connectors/crosspay/index.md
     - Cypix: connectors/cypix/index.md
+    - Decard: connectors/decard/index.md
     - Decta: connectors/decta/index.md
     - Dialup: connectors/dialup/index.md
     - DixonPay: connectors/dixonpay/index.md
     - dLocal: connectors/dlocal/index.md
     - dotpay: connectors/dotpay/index.md
-    - e.Cascad: connectors/ecascad/index.md
     - EasyBits.io: connectors/easybits/index.md
     - EasyPayRU: connectors/easypayru/index.md
     - EasyTransfer: connectors/easytransfer/index.md
@@ -382,7 +373,6 @@ nav:
     - Royal Pay: connectors/royalpay/index.md
     - Rubikon Soft: connectors/rubikonsoft/index.md
     - Russian Standard Bank: connectors/russianstandardbank/index.md
-    - SDK.finance: connectors/sdkfinance/index.md
     - SatchelPay: connectors/satchelpay/index.md
     - Selcom: connectors/selcom/index.md     
     - Skrill: connectors/skrill/index.md
@@ -399,6 +389,7 @@ nav:
     - TrustPay: connectors/trustpay/index.md
     - UAPay: connectors/uapay/index.md
     - UKRGASBANK: connectors/ukrgasbank/index.md
+    - Unlimco: connectors/unlimco/index.md
     - Unlimint (ex. CardPay): connectors/cardpay/index.md
     - VCreditos: connectors/vcreditos/index.md
     - VOLT: connectors/volt/index.md
