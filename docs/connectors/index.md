@@ -14,14 +14,14 @@ Click on the name of the desired connector and follow the link to the step-by-st
 
 ## List of ready-made connections
 
-<!-- 16/11/2021: 141 connectors + test, external, manual, cardgate -->
+<!-- 16/11/2021: 139 connectors + test, external, manual, cardgate -->
 
 | Name | Payments | Payouts | Supported currencies[^1] | Featured&nbsp;methods |
 |:--:|:----:|:----:|:----|:----|
 | <img src="https://static.openfintech.io/payment_providers/cardgate/logo.svg?w=70" width="70px"><br>[Direct card payments](cardgate/) | ✅ |  ✅ | AMD, AUD, AZN, BGN, BRL, BYN, CAD, CHF, CNY, CZK, DKK, EUR, GBP, GEL, GIP, HKD, IDR, INR, JPY, KGS, KZT, MDL, MXN, NGN, NOK, NZD, PHP, PLN, RUB, SEK, SGD, TJS, TMT, TRY, TZS, UAH, USD, UZS, VND, ZAR | |
 | <img src="https://static.openfintech.io/payment_providers/externalprovider/logo.svg?w=35" width="35px"><br>[External&nbsp;provider protocol](externalprovider/) | | ✅ | [according to the protocol settings] | |
 | <img src="https://static.openfintech.io/payment_providers/manual/logo.svg?w=25" width="25px"><br>[Manual](manual/) | ✅ | ✅ | [according to the transfer parameters] | Swift, cash, bank transfers |
-| <img src="https://static.openfintech.io/payment_providers/4bill/logo.svg?w=70" width="70px"><br>[4bill](4bill/) | ✅ |  ✅  |  AUD, CAD, EUR, GBP, RUB, UAH, USD | |
+| <img src="https://static.openfintech.io/payment_providers/4bill/logo.svg?w=70" width="70px"><br>[4bill](4bill/) | ✅ |  ✅  |  AUD, CAD, EUR, GBP, RUB, UAH, USD | ApplePay, GooglePay |
 | <img src="https://static.openfintech.io/payment_providers/accentpay/logo.png?w=70" width="70px"><br>[Accentpay](accentpay/) | ✅ |  ✅  | EUR, PLN, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/adgroup/logo.svg?w=50" width="50px"><br>[ADgroup](adgroup/)  |  ✅ |  ✅  | EUR, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/advcash/logo.svg?w=70" width="70px"><br>[AdvCash](advcash/) |  ✅ |   ✅  | [according to the provider account settings] | |
@@ -51,7 +51,7 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/cypix/logo.svg?w=70" width="70px"><br>[Cypix](cypix/) | ✅ | ✅ | EUR, KZT, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/decard/logo.svg?w=70" width="70px"><br>[Decard](decard/) | ✅ | |  RUB | |
 | <img src="https://static.openfintech.io/payment_providers/decta/logo.svg?w=70" width="70px"><br>[Decta](decta/) | ✅ | | AUD, CAD, CHF, EUR, GBP, PLN, USD | |
-| <img src="https://static.openfintech.io/payment_providers/dialup/logo.svg?w=10" width="10px"><br>[Dialup](dialup/) | | ✅ | | [according to the provider account settings] |
+| <img src="https://static.openfintech.io/payment_providers/dialup/logo.svg?w=10" width="10px"><br>[Dialup](dialup/) | | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/dixonpay/logo.svg?w=10" width="10px"><br>[DixonPay](dixonpay/) | ✅ | | AED, AUD, CAD, CHF, DKK, EUR, GBP, HKD, ILS, INR, JPY, KRW, MYR, NOK, NZD, PHP, RUB, SEK, SGD, THB, TRY, TWD, USD, ZAR | |
 | <img src="https://static.openfintech.io/payment_providers/dlocal/logo.svg?w=70" width="70px"><br>[dLocal](dlocal/) | | ✅ | ARS, BOB, BRL, CLP, COP, INR, MXN, PEN, PYG || |
 | <img src="https://static.openfintech.io/payment_providers/dotpay/logo.svg?w=70" width="70px"><br>[dotpay](dotpay/) | | ✅ | [according to the provider account settings] | |
@@ -102,7 +102,7 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/payeer/logo.svg?w=70" width="70px"><br>[Payeer](payeer/) | ✅ | ✅ | BCH, BTC, DASH, ETH, EUR, LTC, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paylink/logo.png?w=70" width="70px"><br>[Paylink](paylink/) | ✅ | ✅ | UAH | Masterpass |
 | <img src="https://static.openfintech.io/payment_providers/paylogic/logo.png?w=70" width="70px"><br>[Pay-logic](paylogic/) | | ✅ | [according to the provider account settings] | |
-| <img src="https://static.openfintech.io/payment_providers/paymega/logo.svg?w=90" width="90px"><br>[Paymega.io](paymegaio/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
+| <img src="https://static.openfintech.io/payment_providers/paymega/logo.svg?w=90" width="90px"><br>[Paymega.io](paymegaio/) | ✅ | ✅ | EUR, RUB, UAH, USD | ApplePay, Googlepay |
 | <img src="https://static.openfintech.io/payment_providers/paymentcenter/logo.png?w=70" width="70px"><br>[Payment Center](paymentcenter/) | ✅ | ✅ | EUR, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paymentstrust/logo.svg?w=90" width="90px"><br>[Payments Trust](paymentstrust/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=110" width="110px"><br>[Paymentwall](paymentwall/) | ✅ | | USD | |
@@ -128,7 +128,7 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/reel/logo.png?w=70" width="70px"><br>[REEL](reel/) | | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/royalpay/logo.svg?w=90" width="90px"><br>[Royal Pay](royalpay/) | ✅ | ✅ | RUB | |
 | <img src="https://static.openfintech.io/payment_providers/rubikonsoft/logo.png?w=90" width="90px"><br>[Rubikon Soft](rubikonsoft/) | | ✅ | [according to the provider account settings] | |
-|  <img src="https://static.openfintech.io/payment_providers/russianstandardbank/logo.png?w=70" width="70px"><br>[Russian Standard Bank](russianstandardbank/) | ✅ | |
+|  <img src="https://static.openfintech.io/payment_providers/russianstandardbank/logo.png?w=70" width="70px"><br>[Russian Standard Bank](russianstandardbank/) | ✅ | | RUB | |
 | <img src="https://static.openfintech.io/payment_providers/safecharge/logo.svg?w=90" width="90px"><br>[Nuvei](safecharge/)<br>*(ex: SafeCharge)* | ✅ | ✅ | AUD, CAD, CHF, EUR, GBP, PLN, USD |
 | <img src="https://static.openfintech.io/payment_providers/satchelpay/logo.svg?w=90" width="90px"><br>[SatchelPay](satchelpay/) | | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/selcom/logo.png?w=70" width="70px"><br>[Selcom](selcom/) | ✅ | ✅ | [according to the provider account settings] | |
@@ -136,7 +136,7 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/solidgate/logo.svg?w=70" width="70px"><br>[Solid](solidgate/) | ✅ | | AUD, CAD, EUR, GBP, NZD, SGD, USD | |
 | <img src="https://static.openfintech.io/payment_providers/spoynt/logo.svg?w=70" width="70px"><br>[Spoynt](spoynt/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/square/logo.svg?w=70" width="70px"><br>[Square](square/) | ✅ | | [according to the provider account settings] | |
-| <img src="https://static.openfintech.io/payment_providers/stripe/logo.svg?w=70" width="70px"><br>[Stripe](stripe/) | ✅ | | AUD, CAD, EUR, GBP, USD | | ApplePay |
+| <img src="https://static.openfintech.io/payment_providers/stripe/logo.svg?w=70" width="70px"><br>[Stripe](stripe/) | ✅ | | AUD, CAD, EUR, GBP, USD | ApplePay |
 | <img src="https://static.openfintech.io/payment_providers/tinkoff/logo.svg?w=40" width="40px"><br>[Tinkoff](tinkoff/) | ✅ | | EUR, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/tkbpay/logo.svg?w=70" width="70px"><br>[TKB Pay](tkbpay/) | ✅ | ✅ | RUB | |
 |  <img src="https://static.openfintech.io/payment_providers/tome/logo.svg?w=70" width="70px"><br>[tome](tome/) | ✅ | ✅ | BYN, EUR, KZT, RUB, UAH, USD | |

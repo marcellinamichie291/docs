@@ -6,24 +6,31 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
+### [November 11, 2021 (versions 1.121, 1.120, 1.119, 1.118, 1.117, 1.116, 1.115, 1.114, & 1.113)](v1.113-1.121/)
+
+* [Card Gateway updates](v1.113-1.121/#card-gateway-updates): added invoice reference ID (`commerce_invoice_reference_id`) to invoice data for use on HPP, updated card gateway user permissions
+* [Payouts update](v1.113-1.121/#payouts-update):  made payout invoice reference ID optional, so now generate UUID for batch items randomly
+* [Dashboard activity log update](v1.113-1.121/#activity-log-update): added info about editing customer entries
+* And other improvements
+
 ### [October 12, 2021 (versions 1.112, 1.111, 1.110, 1.109, 1.108, 1.107, 1.106, 1.105, 1.104, & 1.103)](v1.103-1.112/)
 
-* [Provider accounts update](#provider-accounts-update): added possibility to check account credentials from the Dashboard
-* [Commerce updates](#commerce-updates): added the *Auto-approve* option for transactions  within an organisation, added the *Resolution message* attribute for payment invoices
-* [Card gate HPP update](#card-gate-hpp-update): added the theme option for customer redirection only after final statuses
+* [Provider accounts update](v1.103-1.112/#provider-accounts-update): added possibility to check account credentials from the Dashboard
+* [Commerce updates](v1.103-1.112/#commerce-updates): added the *Autoapprove* option for transactions  within an organisation, added the *Resolution message* attribute for payment invoices
+* [Card gate HPP update](v1.103-1.112/#card-gate-hpp-update): added the theme option for customer redirection only after final statuses
 * Performance improvements
 
 ### [September 9, 2021 (versions 1.103, 1.102, 1.101, 1.100, 1.99, 1.98, 1.97, 1.96, 1.95, & 1.94)](v1.94-1.103/)
 
-* [Commerce updates](#commerce-updates): made invoice reference ID optional so now generate UUID randomly
-* Updated [addon creating](#addon-updates)
-* [New Analytics tables and columns](#new-analytics-tables)
-* Updated [Telegram bot](#telegram-bot) functionality
+* [Commerce updates](v1.94-1.103/#commerce-updates): made invoice reference ID optional so now generate UUID randomly
+* Updated [addon creating](v1.94-1.103/#addon-updates)
+* [New Analytics tables and columns](v1.94-1.103/#new-analytics-tables)
+* Updated [Telegram bot](v1.94-1.103/#telegram-bot) functionality
 * And other performance improvements
 
 ### [August 10, 2021 (versions 1.93, 1.92, 1.91, 1.90, 1.89, 1.88, 1.87, 1.86, 1.85, 1.84, & 1.83)](v1.83-1.93/)
 
-* [Routing updates](v1.83-1.93/#routing-updates): added option for service auto-enabling
+* [Routing updates](v1.83-1.93/#routing-updates): added option for service autoenabling
 * [Processing updates](v1.83-1.93/#processing-updates): added `processed` timestamp to all final statuses of payment and payout invoices, added a `queued` status for items in batch payouts
 * [Card Gateway updates](v1.83-1.93/#card-gateway-updates): added the turnover limit for merchant accounts, new routing and modifier scheme attributes, new resolution for cascading, `cash` payment and payout methods for manual transactions, changed handling asynchronous failures process
 * [Analytics update](v1.83-1.93/#analytics-update): new attributes for data source
