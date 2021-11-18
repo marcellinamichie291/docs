@@ -8,7 +8,7 @@ This changelog lists releases by date and version number along with associated c
 
 ### [November 11, 2021 (versions 1.121, 1.120, 1.119, 1.118, 1.117, 1.116, 1.115, 1.114, & 1.113)](v1.113-1.121/)
 
-* [Card Gateway updates](v1.113-1.121/#card-gateway-updates): added invoice reference ID (`commerce_invoice_reference_id`) to invoice data for use on HPP, updated card gateway user permissions
+* [Card Gateway updates](v1.113-1.121/#card-gateway-updates): added invoice reference ID to invoice data for use on the HPP, updated card gateway user permissions
 * [Payouts update](v1.113-1.121/#payouts-update):  made payout invoice reference ID optional, so now generate UUID for batch items randomly
 * [Dashboard activity log update](v1.113-1.121/#activity-log-update): added info about editing customer entries
 * And other improvements

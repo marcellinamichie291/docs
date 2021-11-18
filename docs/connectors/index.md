@@ -102,7 +102,7 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/payeer/logo.svg?w=70" width="70px"><br>[Payeer](payeer/) | ✅ | ✅ | BCH, BTC, DASH, ETH, EUR, LTC, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paylink/logo.png?w=70" width="70px"><br>[Paylink](paylink/) | ✅ | ✅ | UAH | Masterpass |
 | <img src="https://static.openfintech.io/payment_providers/paylogic/logo.png?w=70" width="70px"><br>[Pay-logic](paylogic/) | | ✅ | [according to the provider account settings] | |
-| <img src="https://static.openfintech.io/payment_providers/paymega/logo.svg?w=90" width="90px"><br>[Paymega.io](paymegaio/) | ✅ | ✅ | EUR, RUB, UAH, USD | ApplePay, Googlepay |
+| <img src="https://static.openfintech.io/payment_providers/paymegaio/logo.svg?w=90" width="90px"><br>[Paymega.io](paymegaio/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paymentcenter/logo.png?w=70" width="70px"><br>[Payment Center](paymentcenter/) | ✅ | ✅ | EUR, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paymentstrust/logo.svg?w=90" width="90px"><br>[Payments Trust](paymentstrust/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=110" width="110px"><br>[Paymentwall](paymentwall/) | ✅ | | USD | |
