@@ -288,6 +288,7 @@ nav:
     - Concord Bank: connectors/concord/index.md
     - Concordpay: connectors/concordpay/index.md
     - Connectum: connectors/connectum/index.md
+    - Constant payments: connectors/constantpos/index.md
     - CrossPay: connectors/crosspay/index.md
     - Cypix: connectors/cypix/index.md
     - Decard: connectors/decard/index.md
@@ -304,7 +305,9 @@ nav:
     - ecoPayz: connectors/ecopayz/index.md
     - Emerald24: connectors/emerald24/index.md
     - ePay: connectors/epay/index.md
+    - EU Paymentz: connectors/eupaymentz/index.md
     - exactly.: connectors/exactly/index.md
+    - Ezeebill: connectors/ezeebill/index.md
     - FlashPay: connectors/flashpay/index.md
     - Fondy: connectors/fondy/index.md
     - Forta: connectors/forta/index.md
@@ -336,6 +339,7 @@ nav:
     - Nuvei (ex. SafeCharge): connectors/safecharge/index.md
     - Octopayz: connectors/octopayz/index.md
     - OPay: connectors/opay/index.md
+    - One payment: connectors/1payment/index.md
     - Odysseq: connectors/odysseq/index.md
     - Offsetpay: connectors/offsetpay/index.md
     - PSPGate: connectors/pspgate/index.md
@@ -353,6 +357,7 @@ nav:
     - Payments Trust: connectors/paymentstrust/index.md
     - Paymentwall: connectors/paymentwall/index.md   
     - PayPal: connectors/paypal/index.md
+    - PayPlay: connectors/payplay/index.md
     - PayPound: connectors/paypound/index.md
     - Paysafe: connectors/paysafe/index.md
     - paysafecard: connectors/paysafecard/index.md 
@@ -370,6 +375,7 @@ nav:
     - Rapyd.net: connectors/rapyd/index.md
     - RBK Money: connectors/rbkmoney/index.md
     - REEL: connectors/reel/index.md
+    - Reeves: connectors/reeves/index.md 
     - Royal Pay: connectors/royalpay/index.md
     - Rubikon Soft: connectors/rubikonsoft/index.md
     - Russian Standard Bank: connectors/russianstandardbank/index.md
@@ -389,6 +395,7 @@ nav:
     - TrustPay: connectors/trustpay/index.md
     - UAPay: connectors/uapay/index.md
     - UKRGASBANK: connectors/ukrgasbank/index.md
+    - UnitePlat: connectors/uniteplat/index.md
     - Unlimco: connectors/unlimco/index.md
     - Unlimint (ex. CardPay): connectors/cardpay/index.md
     - VCreditos: connectors/vcreditos/index.md

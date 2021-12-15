@@ -3,6 +3,7 @@
 # PayClub
 
 > Ultra Safe Payments
+
 **Website**: [payclub.com](https://payclub.com/)
 
 **Login**: [merchant.payclub.com](https://merchant.payclub.com/)
