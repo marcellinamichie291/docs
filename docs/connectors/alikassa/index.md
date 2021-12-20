@@ -10,33 +10,43 @@ Follow the guidance for setting up a connection with the AliKassa payment servic
 
 ### Step 1: Sign up for the AliKassa account
 
-Send a request on the [website](WEBSITE), verify your account and gain access.
+Send a request on the [website](https://alikassa.com/), verify your account and gain access to the back-office.
 
 ### Step 2: Get credentials
 
-In the account (*'Settings'* --> '*Security*'), find:
+In the *Projects* --> *Accounts*, find:
 
-* UUID
-* Private (Secret) Key
+* Merchant ID
+* Account UUID
 
-![UUID key](images/uuid.png)
+![Accounts](images/uuids.png)
+
+Then, go to the *Settings* --> *Keys*, generate and download:
+
+* Password
+* Public key
+* Private (Secret) key
+
+!!! note ""
+
+    Make sure you save the received keys in the back-office.
+
+![API certs](images/api-certs.png)
+
+Ask your AliKassa support manager about the related Application UUID.
 
 !!! tip ""
     Be sure to check available options at *'Settings'* --> '*Payments*' and choose those you intend to use.
 
     ![Settings](images/settings.png)
 
-And if AliKassa provides you with the H2H connection, you will also obtain:
+### Step 3: Set up notifications
 
-* *Merchant Account*
-* *Public key* (file)
-* API URL for connection
+In the *Settings* --> *Notifications*, create a Notification endpoint ID.
 
-### Step 3: Set Callback URL in the account API settings
+![Notifications](images/notifications.png)
 
-Add `https://psp-ext.paycore.io/alikassa/callback` as the notification URL if you want to receive Callbacks through the {{custom.company_name}} platform.
-
-![](images/callback.png)
+![Create a notification ID](images/notification.png)
 
 !!! important
     Be sure to check with the manager if you require to provide a white list of IPs, and if so, specify IP addresses from the [{{custom.company_name}} list](/integration/ips/).
@@ -67,14 +77,12 @@ Press **Connect** at [*AliKassa Provider Overview*]({{custom.dashboard_base_url}
 
 Enter credentials:
 
-* UUID --> Provider UUID
-* Private Key
-* Merchant Account
-* API URL (without `api` prefix, for example: `https://payment.alikassa.com/`)
+* Merchant ID
+* Account UUID
+* Application UUID
+* Notification endpoint ID (if you set up it in the Alikassa back-office)
 
-Upload the file with the Public key.
-
-Select Test mode to test connection with AliKassa if you're sure you also checked Test mode in your account on the AliKassa platform.
+Upload the files with your Password, Public key, and Private key.
 
 Choose Currencies and Features. You can set these parameters according to available currencies and features for your AliKassa account, but it's necessary to check details of the connection with your {{custom.company_name}} account manager.
 
