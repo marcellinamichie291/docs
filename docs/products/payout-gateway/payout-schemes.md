@@ -8,20 +8,13 @@ The benefits of the Payout Schemes using are:
 
 - improved routing and fine-tune managing of route selection
 - the possibility to configure a backup processing plan with the strategy cascade
-- and the possibility to create the scheme of blockages that allows rejection of payouts based on transaction attributes
-
-You still can handle payout processing with old settings and use previously created payout routing schemes and payout rate schemes.
-
-??? info "Commerce scheme editing"
-    ![Legacy](images/use-legacy.png)
-
-But we recommend to take your transaction routing to the next level as early as possible.
+- and the possibility to create the scheme of blockages that allows rejection of payouts based on transaction attributes.
 
 !!! attention
     You should create different schemes for testing and performing live payout transactions. Test payout schemes are created and displayed only when you activate the test mode.
 
 ??? info "Commerce scheme editing"
-    ![Payout Scheme](images/better-not-use-legacy.png)
+    ![Payout Scheme](images/edit-new-scheme.png)
 
 ## Create your first payout scheme
 

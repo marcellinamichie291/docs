@@ -6,6 +6,14 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
+### [December 9, 2021 (versions 1.123, 1.122, 1.121, & 1.122)](v1.122-1.129/)
+
+* [Commerce updates](v1.122-1.129/#commerce-updates): added basic HPP URL to responses, got rid of legacy payout schemes
+* [Card Gateway updates](v1.122-1.129/#card-gateway-updates): upgraded routing scheme revisions, added a feature to view full card details
+* [Customer entries update](v1.122-1.129/#customer-entries-update): added the `address` object
+* [Dashboard UX updates](v1.122-1.129/#dashboard-ux-updates): added a multi-selection to dashboard's filters
+* Bug fixes and other overall improvements
+
 ### [November 11, 2021 (versions 1.121, 1.120, 1.119, 1.118, 1.117, 1.116, 1.115, 1.114, & 1.113)](v1.113-1.121/)
 
 * [Card Gateway updates](v1.113-1.121/#card-gateway-updates): added invoice reference ID to invoice data for use on the HPP, updated card gateway user permissions
