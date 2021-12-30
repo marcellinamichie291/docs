@@ -82,14 +82,17 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/ikajo/logo.svg?w=70" width="70px"><br>[Ikajo](ikajo/) | ✅ | | RUB, EUR, USD | |
 | <img src="https://static.openfintech.io/payment_providers/ingbankpl/logo.svg?w=70" width="70px"><br>[ING Bank Poland](ingbankpl/) | ✅ | | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/interkassa/logo.svg?w=80" width="80px"><br>[Interkassa](interkassa/) | ✅ | ✅ | EUR, INR, KZT, RUB, UAH, USD | |
+| <img src="https://static.openfintech.io/payment_providers/jeton/logo.png?w=70" width="70px"><br>[Jeton](jeton/) | ✅ | | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/kassa/logo.svg?w=70" width="70px"><br>[Kassa](/connectors/kassa/) | ✅ | ✅ | BYN, EUR, KZT, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/klarna/logo.svg?w=90" width="90px"><br>[Klarna](klarna/) | ✅ | | [according to the provider account settings] | |
+| <img src="https://static.openfintech.io/payment_providers/kraft/logo.svg?w=10" width="10px"><br>[Kraft](kraft/) | | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/kuna/logo.svg?w=70" width="70px"><br>[Kuna](kuna/) | ✅ | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/kunapay/logo.svg?w=70" width="70px"><br>[Kuna Pay](kunapay/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/leogaming/logo.svg?w=80" width="80px"><br>[LeoGaming](leogaming/) | | ✅ | RUB, UAH | |
 | <img src="https://static.openfintech.io/payment_providers/liqpay/logo.svg?w=70" width="70px"><br>[LiqPay](liqpay/) | ✅ | ✅ | EUR, RUB, UAH, USD | Masterpass |
 | <img src="https://static.openfintech.io/payment_providers/maxpay/logo.svg?w=90" width="90px"><br>[Maxpay](maxpay/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/mercuryo/logo.svg?w=90" width="90px"><br>[mercuryo](mercuryo/) | ✅ | | [according to the provider account settings] | |
+| <img src="https://static.openfintech.io/payment_providers/micropayments/logo.svg?w=90" width="90px"><br>[MicroPayment](micropayments/) | ✅ | | [according to the account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/mineexchange/logo.png?w=90" width="90px"><br>[Mine.Exchange](mineexchange/) | ✅ | ✅ | [according to the provider account settings] | |  
 | <img src="https://static.openfintech.io/payment_providers/moneypay/logo.png?w=90" width="90px"><br>[MoneyPay](moneypay/) | ✅ | | AUD, CNY, EUR, JPY, USD | |
 | <img src="https://static.openfintech.io/payment_providers/muchbetter/logo.svg?w=90" width="90px"><br>[MuchBetter](muchbetter/) | ✅ | ✅ | [according to the provider account settings] | |
@@ -100,19 +103,22 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/offsetpay/logo.png?w=75" width="75px"><br>[OffsetPay](offsetpay/) | ✅ | | EUR, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/opay/logo.svg?w=75" width="75px"><br>[OPay](opay/) | ✅ | | EUR, GBP, USD | |
 | <img src="https://static.openfintech.io/payment_providers/parimatch/logo.svg?w=70" width="70px"><br>[Parimatch](parimatch/) | | ✅ | [according to the provider account settings] | |
-| <img src="https://static.openfintech.io/payment_providers/pay2kassa/logo.svg?w=10" width="10px"><br>[pay2kassa](pay2kassa/) | ✅ | ✅ | [according to the account settings] | |
+| <img src="https://static.openfintech.io/payment_providers/pay2kassa/logo.png?w=10" width="10px"><br>[pay2kassa](pay2kassa/) | ✅ | ✅ | [according to the account settings] | |
+| <img src="https://static.openfintech.io/payment_providers/payassist/logo.png?w=70" width="70px"><br>[Payassist](payassist/) |  | ✅ | [according to the account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/paybox/logo.svg?w=70" width="70px"><br>[Paybox](paybox/) | ✅ | ✅ | KZT | |
 | <img src="https://static.openfintech.io/payment_providers/payclub/logo.png?w=70" width="70px"><br>[PayClub](payclub/) | ✅ | | CNY, EUR, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paydoo/logo.svg?w=50" width="50px"><br>[Paydoo](paydoo/) | ✅ | | CHF, EUR, GBP, PLN, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/payeer/logo.svg?w=70" width="70px"><br>[Payeer](payeer/) | ✅ | ✅ | BCH, BTC, DASH, ETH, EUR, LTC, RUB, USD | |
+| <img src="https://static.openfintech.io/payment_providers/payelata/logo.svg?w=70" width="70px"><br>[Payelata](payelata/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paylink/logo.png?w=70" width="70px"><br>[Paylink](paylink/) | ✅ | ✅ | UAH | Masterpass |
 | <img src="https://static.openfintech.io/payment_providers/paylogic/logo.svg?w=70" width="70px"><br>[Pay-logic](paylogic/) | | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/paymegaio/logo.svg?w=90" width="90px"><br>[Paymega.io](paymegaio/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paymentcenter/logo.png?w=70" width="70px"><br>[Payment Center](paymentcenter/) | ✅ | ✅ | EUR, RUB, USD | |
+| <img src="https://static.openfintech.io/payment_providers/paymentrush/logo.svg?w=10" width="10px"><br>[Payment Rush](paymentrush/) | ✅ |  | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/paymentstrust/logo.svg?w=90" width="90px"><br>[Payments Trust](paymentstrust/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paymentwall/logo.svg?w=110" width="110px"><br>[Paymentwall](paymentwall/) | ✅ | | USD | |
 | <img src="https://static.openfintech.io/payment_providers/paypal/logo.svg?w=70" width="70px"><br>[PayPal](paypal/) | ✅ | ✅ | [according to the provider account settings] | |
-| <img src="https://static.openfintech.io/payment_providers/payplay/logo.svg?w=1" width="1px"><br>[PayPlay](payplay/) | ✅ | | RUB, UAH | |
+| <img src="https://static.openfintech.io/payment_providers/payplay/logo.png?w=70" width="70px"><br>[PayPlay](payplay/) | ✅ | | RUB, UAH | |
 | <img src="https://static.openfintech.io/payment_providers/paypound/logo.png?w=90" width="90px"><br>[PayPound](paypound/) | ✅ | | EUR, GBP, INR, JPY, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/paysafe/logo.svg?w=90" width="90px"><br>[Paysafe](paysafe/) | ✅ | ✅ | AZN, BRL, EUR, INR, NGN, PKR, USD, UZS | |
 | <img src="https://static.openfintech.io/payment_providers/paysafecard/logo.svg?w=90" width="90px"><br>[paysafecard](paysafecard/) | ✅ | ✅ | [according to the provider account settings] | |
@@ -120,6 +126,7 @@ Click on the name of the desired connector and follow the link to the step-by-st
 | <img src="https://static.openfintech.io/payment_providers/paysoft/logo.png?w=35" width="35px"><br>[PaySoft Inc.](paysoft/) | | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/perfectmoney/logo.png?w=70" width="70px"><br>[Perfect Money](perfectmoney/) | ✅ | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/piastrix/logo.svg?w=70" width="70px"><br>[Piastrix](piastrix/) | ✅ | ✅ | BCH, ETH, EUR, KZT, RUB, UAH, USD | ApplePay |
+| <img src="https://static.openfintech.io/payment_providers/picksell/logo.png?w=70" width="70px"><br>[Picksell](picksell/) | ✅ |  |[according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/pivdennybank/logo.svg?w=100" width="100px"><br>[Pivdenny Bank](pivdennybank/) | ✅ | ✅ | UAH | |
 | <img src="https://static.openfintech.io/payment_providers/platio/logo.svg?w=70" width="70px"><br>[Platio](platio/) | ✅ | ✅ | RUB | 
 | <img src="https://static.openfintech.io/payment_providers/pmsolutions/logo.png?w=35" width="35px"><br>[PMSolutions](pmsolutions/) | ✅ | ✅ | EUR, RUB, UAH, USD | |
@@ -130,7 +137,8 @@ Click on the name of the desired connector and follow the link to the step-by-st
 |  <img src="https://static.openfintech.io/payment_providers/qiwi/logo.svg?w=70" width="70px"><br>[Qiwi](qiwi/) | ✅ | | EUR, RUB, USD | |
 | <img src="https://static.openfintech.io/payment_providers/raiffeisenbank/logo.svg?w=100" width="100px"><br>[Raiffeisen Bank](raiffeisenbank/) | ✅ | ✅ | UAH | |
 | <img src="https://static.openfintech.io/payment_providers/rapyd/logo.svg?w=70" width="70px"><br>[Rapyd.net](rapyd/) | | ✅ | [according to the provider account settings] | |
- <img src="https://static.openfintech.io/payment_providers/rbkmoney/logo.png?w=70" width="70px"><br>[RBK Money](rbkmoney/) | ✅ | ✅ | EUR, RUB, USD | |
+| <img src="https://static.openfintech.io/payment_providers/rbkmoney/logo.png?w=70" width="70px"><br>[RBK Money](rbkmoney/) | ✅ | ✅ |  EUR, RUB, USD | |
+| <img src="https://static.openfintech.io/payment_providers/realdeposits/logo.png?w=50" width="50px"><br>[RealDeposits](realdeposits/) | ✅ | | GBP, EUR, USD | |
 | <img src="https://static.openfintech.io/payment_providers/reel/logo.svg?w=1" width="1px"><br>[REEL](reel/) | ✅ | ✅ | [according to the provider account settings] | |
 | <img src="https://static.openfintech.io/payment_providers/reel/logo.svg?w=1" width="1px"><br>[Reeves](reeves/) | ✅ | | KZT, RUB | |
 | <img src="https://static.openfintech.io/payment_providers/royalpay/logo.svg?w=90" width="90px"><br>[Royal Pay](royalpay/) | ✅ | ✅ | RUB | |
