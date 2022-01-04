@@ -323,14 +323,17 @@ nav:
     - Ibox Bank: connectors/iboxbank/index.md
     - Ikajo: connectors/ikajo/index.md
     - Interkassa: connectors/interkassa/index.md
+    - Jeton: connectors/jeton/index.md
     - Kassa: connectors/kassa/index.md
     - Klarna: connectors/klarna/index.md
+    - Kraft: connectors/kraft/index.md
     - Kuna Pay: connectors/kunapay/index.md
     - Kuna: connectors/kuna/index.md
     - Leogaming: connectors/leogaming/index.md
     - LiqPay: connectors/liqpay/index.md
     - MaxPay: connectors/maxpay/index.md
     - Mercuryo: connectors/mercuryo/index.md
+    - MicroPayment: connectors/micropayments/index.md
     - Mine.Exchange: connectors/mineexchange/index.md
     - MoneyPay: connectors/moneypay/index.md
     - MuchBetter: connectors/muchbetter/index.md
@@ -346,14 +349,17 @@ nav:
     - PUMB (FUIB): connectors/pumb/index.md
     - Parimatch: connectors/parimatch/index.md
     - Pay-logic: connectors/paylogic/index.md
-    - pay2kassa: connectors/pay2kassa/index.md    
+    - pay2kassa: connectors/pay2kassa/index.md
+    - Payassist: connectors/payassist/index.md    
     - PayBox: connectors/paybox/index.md
     - PayClub: connectors/payclub/index.md
     - PayDoo: connectors/paydoo/index.md
     - Payeer: connectors/payeer/index.md
+    - Payelata: connectors/payelata/index.md
     - PayLink: connectors/paylink/index.md
     - PayMega.io: connectors/paymegaio/index.md
     - Payment Center: connectors/paymentcenter/index.md
+    - Payment Rush: connectors/paymentrush/index.md
     - Payments Trust: connectors/paymentstrust/index.md
     - Paymentwall: connectors/paymentwall/index.md   
     - PayPal: connectors/paypal/index.md
@@ -365,6 +371,7 @@ nav:
     - PaySoft: connectors/paysoft/index.md
     - Perfect Money: connectors/perfectmoney/index.md
     - Piastrix: connectors/piastrix/index.md
+    - Picksell: connectors/picksell/index.md
     - Pivdenny Bank: connectors/pivdennybank/index.md
     - Platio: connectors/platio/index.md
     - PMSolutions: connectors/pmsolutions/index.md
@@ -374,6 +381,7 @@ nav:
     - Raiffeisen Bank: connectors/raiffeisenbank/index.md
     - Rapyd.net: connectors/rapyd/index.md
     - RBK Money: connectors/rbkmoney/index.md
+    - RealDeposits: connectors/realdeposits/index.md
     - REEL: connectors/reel/index.md
     - Reeves: connectors/reeves/index.md 
     - Royal Pay: connectors/royalpay/index.md
