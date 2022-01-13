@@ -193,9 +193,9 @@ nav:
     - Accept Payments:
         - Payment Flow and Gateway: products/payment-gateway/index.md
         - Payment Methods and Options: products/payment-gateway/methods-n-options.md
-        - How to Start Accept Payments: products/payment-gateway/how-to-start-accept-payments.md
+        # - How to Start Accept Payments: products/payment-gateway/how-to-start-accept-payments.md
         # - Managing Payments: products/payment-gateway/managing-payments.md
-        - Managing Routing: products/payment-gateway/payment-routing-schemes.md
+        - Optimising payments: products/payment-gateway/payment-routing-schemes.md
         - Payment Workflow: products/payment-gateway/payment-workflow.md
         - Payment Request Workflow: products/payment-gateway/payment-request-workflow.md
     - Make Payouts:
@@ -418,18 +418,21 @@ nav:
     - Zotapay: connectors/zotapay/index.md
 - Changelog: 
     - Overview: release-notes/index.md
-    - December 9, 2021 (1.122-1.129): release-notes/v1.122-1.129.md
-    - November 11, 2021 (1.113-1.121): release-notes/v1.113-1.121.md
-    - October 12, 2021 (1.103-1.112): release-notes/v1.103-1.112.md
-    - September 9, 2021 (1.94-1.103): release-notes/v1.94-1.103.md
-    - August 10, 2021 (1.83-1.93): release-notes/v1.83-1.93.md
-    - July 8, 2021 (1.76-1.82): release-notes/v1.76-1.82.md
-    - June 9, 2021 (1.66-1.75): release-notes/v1.66-1.75.md
-    - May 13, 2021 (1.54-1.65): release-notes/v1.54-1.65.md
-    - April 2, 2021 (1.45-1.53): release-notes/v1.45-1.53.md
-    - March 3, 2021 (1.37-1.44): release-notes/v1.37-1.44.md
-    - February 6, 2021 (1.29-1.36): release-notes/v1.36-1.29.md
-    - January 5, 2021 (1.28): release-notes/v1.28.md
+    - January 13, 2022 (1.130-1.140): release-notes/v1.130-1.140.md
+    - 2021:
+        - Overview: release-notes/archive/2021/index.md
+        - December 9, 2021 (1.122-1.129): release-notes/archive/2021/v1.122-1.129.md
+        - November 11, 2021 (1.113-1.121): release-notes/archive/2021/v1.113-1.121.md
+        - October 12, 2021 (1.103-1.112): release-notes/archive/2021/v1.103-1.112.md
+        - September 9, 2021 (1.94-1.103): release-notes/archive/2021/v1.94-1.103.md
+        - August 10, 2021 (1.83-1.93): release-notes/archive/2021/v1.83-1.93.md
+        - July 8, 2021 (1.76-1.82): release-notes/archive/2021/v1.76-1.82.md
+        - June 9, 2021 (1.66-1.75): release-notes/archive/2021/v1.66-1.75.md
+        - May 13, 2021 (1.54-1.65): release-notes/archive/2021/v1.54-1.65.md
+        - April 2, 2021 (1.45-1.53): release-notes/archive/2021/v1.45-1.53.md
+        - March 3, 2021 (1.37-1.44): release-notes/archive/2021/v1.37-1.44.md
+        - February 6, 2021 (1.29-1.36): release-notes/archive/2021/v1.36-1.29.md
+        - January 5, 2021 (1.28): release-notes/archive/2021/v1.28.md
     - 2020:
         - Overview: release-notes/archive/2020/index.md
         - v1.27 (22/12/2020): release-notes/archive/2020/v1.27.md
