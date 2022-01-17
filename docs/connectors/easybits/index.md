@@ -19,7 +19,7 @@ Send a request via the email. Submit the required documents to verify your accou
 
 ### Step 2: Get credentials
 
-Upon registration, EasyBits.io assigns you a personal code name: `clientCodeName`.
+After registration, you obtain a unique client code name and also generate on your side a pair of RSA keys: public and private in the PEM (pkcs8) format. Contact your EasyBits.io support manager if you have any complications with obtaining credentials.
 
 ## Connect Provider Account
 
@@ -29,7 +29,10 @@ Press **Connect** at [*EasyBits.io Provider Overview*]({{custom.dashboard_base_u
 
 ![Connect](images/provider-account.png)
 
-Enter your `clientCodeName` as Client name.
+Enter your `clientCodeName` as the *Client code name* and upload:
+
+* *Private Key*
+* *Public key* (optional: only for **wholly new** accounts; if you entirely set up your account at the provider side, you shouldn't specify its *Public key* at the Corefy dashboard)
 
 Select Test or Live mode according to the type of account to connect with EasyBits.io.
 
