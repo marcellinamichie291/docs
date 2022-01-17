@@ -2,17 +2,24 @@
 
 # Decta
 
-Follow the instructions for setting up a connection with Decta payment provider.
+!!! quote ""
+    Scalable payment solutions for growing online business.
+
+**Website**: [decta.com](https://www.decta.com/)
+
+**Login**: [gate.decta.com](https://gate.decta.com/merchants/en/login?_ga=2.58711082.183697795.1642429373-1381968436.1642429373)
+
+Follow the guidance for setting up a connection with Decta as a payment service provider.
 
 ## Set up account
 
 ### Step 1: Contact Decta support manager
 
-Submit the required documents to verify your account and gain access.
+Send a request on the [website](https://www.decta.com/). Submit the required documents to verify your account and gain access.
 
 ### Step 2:  Generate key(s)
 
-Go to the 'e-Commerce & API' section, choose a terminal and generate keys for the account connection. Pay attention that you'll need different sets for the live and test connection.
+Go to the 'e-Commerce & API' section, choose a terminal and generate keys for the account connection. Pay attention that you need different sets for the live and test connection.
 
 ![Start Page](images/start-page.png)
 
@@ -24,28 +31,19 @@ The test key set will be marked by 'Test' label under the title in the common li
 
 ![Keys](images/keys.png)
 
-## Connect account
+## Connect H2H merchant account
 
-### Step 1: Copy the secret key from the key set at gate.decta.com
+### Step 1: Connect account at the {{custom.company_name}} Dashboard
 
-### Step 2: Connect account at the {{custom.company_name}} Dashboard
+Press *Connect* at the [*Decta provider overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/decta/general) page in *'New connection'* section to open the connection form.
 
-Press Connect at **Decta Provider Overview** page in *'New connection'* section to open Connection form.
+![Connect](images/h2h-merchant-account.png)
 
-![Connect](images/connect.png)
+Enter the secret key selecting Test or Live mode according to the type of key.
 
-Enter the key and set up the required parameters:
+Choose *Currencies* and *Features* according to available currencies and features for your Decta account, but it's necessary to verify details of the connection with your {{custom.company_name}} account manager.
 
-* Test mode&mdash;if you connect the test key;
-* Currency.
-
-!!! note
-    These parameters are set according to your Merchant account type and its available currencies.
-
-As necessary, choose additional options:  
-
-* turn on the generation of dynamic descriptor &mdash; you can edit its content later, in the *'Commerce account'* settings;
-* add all necessary features.
+Additionally, you can turn on the generation of dynamic descriptor and then setup its content in the *'Commerce account'* settings. Also, toggle 'Save Instant token' for instant payments use.
 
 !!! success
     You have connected **Decta** account!
