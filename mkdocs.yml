@@ -278,10 +278,11 @@ nav:
     - BetaTransfer: connectors/betatransfer/index.md
     - Billline: connectors/billline/index.md
     - BlackRabbit: connectors/blackrabbit/index.md
+    - cards2cards: connectors/cards2cards/index.md
     - Cashfree: connectors/cashfree/index.md
     - Cauri: connectors/cauri/index.md
     - Certus Finance: connectors/certusfinance/index.md
-    - Changecoins: connectors/changcoinspay/index.md
+    - Changecoins: connectors/changecoins/index.md
     - CoinGate: connectors/coingate/index.md
     - CoinsPaid: connectors/coinspaid/index.md      
     - Commercial Industrial Bank: connectors/cib/index.md
@@ -304,6 +305,8 @@ nav:
     - ECommPay: connectors/ecommpay/index.md 
     - ecoPayz: connectors/ecopayz/index.md
     - Emerald24: connectors/emerald24/index.md
+    - emerchantpay: connectors/emerchantpay/index.md
+    - EMS: connectors/ems/index.md
     - ePay: connectors/epay/index.md
     - EU Paymentz: connectors/eupaymentz/index.md
     - exactly.: connectors/exactly/index.md
@@ -322,6 +325,7 @@ nav:
     - ING Bank Poland: connectors/ingbankpl/index.md
     - Ibox Bank: connectors/iboxbank/index.md
     - Ikajo: connectors/ikajo/index.md
+    - Infotrend solutions: connectors/infotrend/index.md
     - Interkassa: connectors/interkassa/index.md
     - Jeton: connectors/jeton/index.md
     - Kassa: connectors/kassa/index.md

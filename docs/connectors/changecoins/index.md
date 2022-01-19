@@ -1,4 +1,4 @@
-<img src="https://static.openfintech.io/payment_providers/changcoinspay/logo.png?w=400" width="400px" >
+<img src="https://static.openfintech.io/payment_providers/changecoins/logo.svg?w=400" width="400px" >
 
 # ChangeCoins
 
