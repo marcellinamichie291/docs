@@ -1,67 +1,65 @@
 <img src="https://static.openfintech.io/payment_providers/ingbankpl/logo.svg?w=400" width="400px">
 
-# ING Bank Poland Connector
+# ING Bank Poland
 
-## Introduction
+**Website**: [ing.pl](https://www.ing.pl/)
 
-Here You can find  instructions for setting up [**ING Bank Poland** account](https://login.ingbank.pl/mojeing/app/#login)!
+**Login**: [ingbusiness.pl](https://login.ingbank.pl/mojeing/app/#login)
 
-## Setup account
+Follow the guidance for setting up a connection with ING Bank Poland as a payment service provider.
 
-#### Step 1: Create Shop
--  Go to the "Shops" (Sklepy) section
--  Add new shop (Sklep)
+## Set up an account
 
-    ![Step 1](images/ingbank-step1_1.png)
+### Step 1: Activate online banking
 
-    ![Step 1](images/ingbank-step1_2.png)
+Contact your ING Bank account manager or fill in the [activation form](https://forms.ing.pl/DETeWniosekWormsExt/wizardwfb.aspx?path=T6_DT-EndUserWormsExt-S10-NPH&FieldString25=a&lang=en-GB&bankId=6&profileId=4&c=1) on the website.
 
-#### Step 2: Congigure Your shop
+### Step 2: Create a new shop
 
-- Return to the "Shops" (Sklepy) section
-- Open Shop Details (Szczegóły)
+Log in to your internet banking and go to "Shops" (Sklepy) section. Add a new shop.
 
-![Step 2](images/ingbank-step2_1.png)
+![Overview](images/ingbank-step1_1.png)
 
-- Go to the Integration Data (Dane do integracji) Section
-- Set "Notification address"(Adres notyfikacji)
-    -  ```https://psp-ext.paycore.io/ingbank/callback```
+![Shops section](images/ingbank-step1_2.png)
 
-    ![Step 2](images/ingbank-step2_2.png)
+### Step 3: Configure
 
-    ![Step 2](images/ingbank-step2_3.png)
+Open the shop's details (*Szczegóły*).
 
-#### Step 3: Get required parameters:
--  Merchant ID (Identyfikator klienta)
--  Service ID (Identyfikator sklepu)
--  Store key (Klucz sklepu) 
+![Configuration](images/ingbank-step2_1.png)
+
+In the integration data (*Dane do integracji*), set `https://psp-ext.paycore.io/ingbank/callback` as a notification address (*Adres notyfikacji*).
+
+![Edit the Callback URL](images/ingbank-step2_2.png)
+
+![Save](images/ingbank-step2_3.png)
+
+### Step 4: Get required parameters
+
+- Merchant ID (*Identyfikator klienta*)
+- Store ID (*Identyfikator sklepu*)
+- Store key (*Klucz sklepu*) 
 
 ![Step 2](images/ingbank-step3.png)
-
-!!! success
-    You are ready to connect!
     
-## Connect account
+## Connect a provider account
 
-#### Step 1: Copy credentials
+#### Step 1. Connect account at the {{custom.company_name}} dashboard
 
--  Merchant ID (Identyfikator klienta)
--  Store ID (Identyfikator sklepu)
--  Store key (Klucz sklepu)
+Press **Connect** at the [*ING Bank Poland Provider Overview*]({{custom.dashboard_base_url}}connect-directory/payment-providers/ingbankpl/general) page in *'New connection'* to open the connection form.
 
-#### Step 2: Enter credentials
+![Connect](images/provider-account.png)
 
--  Merchant ID (Identyfikator klienta)
--  Store ID (Identyfikator sklepu)
--  Store key (Klucz sklepu)
+Enter credentials:
 
-!!! tip
-    Press **`Connect`** at ING Bank Poland **`Provider Overview page`** in **`New connection`** section to open Connection form!
+- Merchant ID (*Identyfikator klienta*)
+- Store ID (*Identyfikator sklepu*)
+- Store key (*Klucz sklepu*)
 
-
-
-![Connect](images/ingbank_connect.png)
-
+Select Test or Live mode according to the type of account to connect with ING Bank Poland.
 
 !!! success
-    You have connected **ING Bank Poland**!
+    You have connected the **ING Bank Poland** provider account!
+
+!!! question "Still looking for help connecting your **ING Bank Poland** account?"
+    <!--email_off-->[Please contact our support team!](mailto:{{custom.support_email}})<!--/email_off-->
