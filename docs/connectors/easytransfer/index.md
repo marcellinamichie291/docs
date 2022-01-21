@@ -23,7 +23,7 @@ You should also select how EasyTransfer and {{custom.company_name}} will calcula
 
 ### Optional: Get additional credentials
 
-Suppose you plan to check balance statuses or process p2p transactions. In that case, you should request a `clientAccountId`, your account for payment within the EasyTransfer system, and `terminalCode`, your terminal access pointer.
+To get more control over your accounts and balances (for example, over the p2p transaction processing), you should request a `clientAccountId`, your account for payments within the EasyTransfer system, and `terminalCode`, your terminal access pointer.
 
 !!! tip ""
 
