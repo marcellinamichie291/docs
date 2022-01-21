@@ -21,6 +21,8 @@ Send a request via the email. Submit the required documents to verify your accou
 
 After registration, you obtain a unique client code name and also generate on your side a pair of RSA keys: public and private in the PEM (pkcs8) format. Contact your EasyBits.io support manager if you have any complications with obtaining credentials.
 
+You also should decide how EasyBits.io and {{custom.company_name}} will calculate the payment fee (by inner or outer methods).
+
 ## Connect Provider Account
 
 ### Step 1. Connect account at the {{custom.company_name}} Dashboard
@@ -34,7 +36,7 @@ Enter your `clientCodeName` as the *Client code name* and upload:
 * *Private Key*
 * *Public key* (optional: only for **wholly new** accounts; if you entirely set up your account at the provider side, you shouldn't specify its *Public key* at the Corefy dashboard)
 
-Select Test or Live mode according to the type of account to connect with EasyBits.io.
+Select Test or Live mode according to the type of account to connect with EasyBits.io. Choose your Fee calculation type.
 
 !!! success
     You have connected **EasyBits.io** account!
