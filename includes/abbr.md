@@ -52,6 +52,7 @@
 *[TJS]: The Tajikistani somoni
 *[TMT]: The Turkmenistan manat
 *[TRY]: The Turkish lira
+*[TTD]: The Trinidad and Tobago dollar
 *[TWD]: The New Taiwan dollar
 *[TZS]: The Tanzanian shilingi
 *[UAH]: The Ukrainian hryvnia
