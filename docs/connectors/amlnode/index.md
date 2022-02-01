@@ -18,7 +18,7 @@ Send a request on the [website](https://amlnode.com/en/home/) or [register to th
 
 ### Step 2: Get credentials
 
-Log into the [back-office](https://my.amlnode.com/login] and find right on the Homepage your required credentials.
+Log into the [back-office](https://my.amlnode.com/login) and find right on the Homepage your required credentials.
 
 - ID
 - Key
