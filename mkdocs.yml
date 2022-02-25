@@ -422,7 +422,8 @@ nav:
     - Zotapay: connectors/zotapay/index.md
 - Changelog: 
     - Overview: release-notes/index.md
-    - January 13, 2022 (1.130-1.140): release-notes/v1.130-1.140.md
+    - February 17, 2022 (1.141-1.150): release-notes/v1.141-1.150.md
+    - January 13, 2022 (1.130-1.140): release-notes/v1.130-1.140.md    
     - 2021:
         - Overview: release-notes/archive/2021/index.md
         - December 9, 2021 (1.122-1.129): release-notes/archive/2021/v1.122-1.129.md

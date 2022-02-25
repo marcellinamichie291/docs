@@ -6,6 +6,15 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
+### [February 18, 2022 (versions 1.150, 1.149, 1.148, 1.147, 1.146, 1.145, 1.144, 1.143, 1.142, & 1.141)](v1.141-1.150/)
+
+* [Commerce updates](v1.141-1.150/#commerce-updates): added refunded and charged back amounts to the Payment invoice overview, expanded transaction logs
+* [Cardgate updates](v1.141-1.150/#cardgate-updates): deprecated the Optimal routing strategy, updated customer data format in connectors according to providers' requirements
+* [Exchange rates schemes updates](v1.141-1.150/#exchange-rates-schemes-updates): extra validation for the fee setup
+* [Dashboard improvements](v1.141-1.150/#dashboard-improvements): updated filters' functions
+* [Receipt addon](v1.141-1.150/#addons): added the timezone parameter
+* [Bug fixes](v1.141-1.150/#bug-fixes) and overall platform improvements
+
 ### [January 13, 2022 (versions 1.140, 1.139, 1.138, 1.137, 1.136, 1.135, 1.134, 1.133, 1.132, 1.131, & 1.130)](v1.130-1.140/)
 
 * [Dashboard UX updates](v1.130-1.140/#dashboard-ux-updates): added search for addons, new filters in different sections, and updated connected accounts display
