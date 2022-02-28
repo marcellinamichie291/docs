@@ -14,8 +14,9 @@ Submit the required documents to verify your account and gain access.
 
 Get from the IPS support team required credentials:
 
-- Username and password
 - Account ID
+- Username
+- Password
 - Site ID
 - Product ID
 
@@ -34,9 +35,9 @@ Press **Connect** at [*Online IPS Provider Overview*]({{custom.dashboard_base_ur
 
 Enter credentials:
 
+- Account ID
 - Username
 - Password
-- Account ID
 - Site ID
 - Product ID
 
@@ -57,8 +58,8 @@ Enter credentials:
 
 - Username
 - Password
-- Account ID
 - Site ID
+- Account ID
 - Product ID
 
 Choose Currencies and Features. You can set these parameters according to available currencies and features for your IPS account, but it's necessary to verify details of the connection with your {{custom.company_name}} account manager.

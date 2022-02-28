@@ -37,7 +37,7 @@ Press **Connect** at [*inqud Provider Overview*]({{custom.dashboard_base_url}}co
 
 Enter credentials:
 
-- X-Token-API-Id --> Login
+- X-Token-API-Id --> Token ID
 - X-Token-API-Secret --> Token secret
 - X-Salt --> Salt
 
