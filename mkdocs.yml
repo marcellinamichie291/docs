@@ -275,6 +275,7 @@ nav:
     - appexmoney: connectors/appexmoney/index.md
     - Axcess Merchant Services: connectors/axcessmerchantservices/index.md
     - Bank Onego: connectors/bankonego/index.md
+    - BeonPay: connectors/beonpay/index.md
     - BetaTransfer: connectors/betatransfer/index.md
     - Billline: connectors/billline/index.md
     - BlackRabbit: connectors/blackrabbit/index.md
@@ -289,7 +290,9 @@ nav:
     - Concord Bank: connectors/concord/index.md
     - Concordpay: connectors/concordpay/index.md
     - Connectum: connectors/connectum/index.md
+    - ConnPay: connectors/connpay/index.md
     - Constant payments: connectors/constantpos/index.md
+    - CPS: connectors/cps/index.md
     - CrossPay: connectors/crosspay/index.md
     - Cypix: connectors/cypix/index.md
     - Decard: connectors/decard/index.md
@@ -311,6 +314,7 @@ nav:
     - EU Paymentz: connectors/eupaymentz/index.md
     - exactly.: connectors/exactly/index.md
     - Ezeebill: connectors/ezeebill/index.md
+    - First Atlantic Commerce: connectors/firstatlanticcommerce/index.md
     - FlashPay: connectors/flashpay/index.md
     - Fondy: connectors/fondy/index.md
     - Forta: connectors/forta/index.md
@@ -321,12 +325,14 @@ nav:
     - Global Money: connectors/globalmoney/index.md
     - Globalfin (ex. WinPay): connectors/winpay/index.md
     - GumBallPay: connectors/gumballpay/index.md
-    - Hashconnect: connectors/hashconnect/index.md
-    - ING Bank Poland: connectors/ingbankpl/index.md
+    - Hashconnect: connectors/hashconnect/index.md    
     - Ibox Bank: connectors/iboxbank/index.md
     - Ikajo: connectors/ikajo/index.md
     - Infotrend solutions: connectors/infotrend/index.md
+    - ING Bank Poland: connectors/ingbankpl/index.md
+    - inqud: connectors/inqud/index.md
     - Interkassa: connectors/interkassa/index.md
+    - IPS: connectors/onlineips/index.md
     - Jeton: connectors/jeton/index.md
     - Kassa: connectors/kassa/index.md
     - Klarna: connectors/klarna/index.md
@@ -339,6 +345,7 @@ nav:
     - Mercuryo: connectors/mercuryo/index.md
     - MicroPayment: connectors/micropayments/index.md
     - Mine.Exchange: connectors/mineexchange/index.md
+    - Мonetix: connectors/monetix/index.md
     - MoneyPay: connectors/moneypay/index.md
     - MuchBetter: connectors/muchbetter/index.md
     - Neteller: connectors/neteller/index.md

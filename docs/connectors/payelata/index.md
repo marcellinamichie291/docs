@@ -60,7 +60,7 @@ Enter credentials:
 * API key
 * Private key
 
-Also, select Test or Live mode according to the type of account to connect with Payelata.
+Select Test or Live mode according to the type of account to connect with Payelata. Also, choose the *Send metadata* option if you want to use metadata in payment invoices.
 
 Choose Currencies and Features. You can set these parameters according to available currencies and features for your Payelata account, but it's necessary to verify details of the connection with your {{custom.company_name}} account manager.
 
