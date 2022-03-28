@@ -4,15 +4,13 @@
 
 Hosted Payment Page (HPP) is a ready-to-go solution that allows quick and easy integration with {{custom.company_name}}. You only have to redirect your customers to the payment form we give you. There’s also no need for you to pass any PCI scans or have an SSL certificate (though having one is always recommended), since the actual payment is submitted via our secure payment page.
 
-
 ## Try it out
 
 Why not give HPP a test run? Click the  **Pay Now**  button below and the form will spring to life.
 
 <figure class="hpp_container">
-    <iframe height="600px" width="100%" src="https://com.paycoreio.com/hpp/methods?amount=100&currency=UAH&public_key=pk_test_yNznq07p7MChOL8shs7WT3Yat6ZnlqyXq8ep6WKF998" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe height="600px" width="100%" src="https://com.paycore.io/hpp?flow=iframe&selector=widget_app&baseUrl=https%3A%2F%2Fcom.paycore.io%2Fhpp&public_key=pk_test_G3cF1lPhxV0ws5KO0Vy5YgbYOtGzttMnG4SruUfE_TM&amount=15&amp;currency=USD&description=Simple%20description%20of%20your%20payment%20operation.&reference_id=&locale=en&display%5Bhide_header%5D=false&display%5Bhide_footer%5D=false&display%5Bhide_progress_bar%5D=false&display%5Bhide_method_filter%5D=false&display%5Bhide_lifetime_counter%5D=false&style%5Btheme%5D=basic" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </figure>
-
 
 ## Customer Journey
 
@@ -541,7 +539,5 @@ Jump to  [this page](/products/hpp/self-hpp/)  for the API based integration ste
 
 1.  To learn which components works with which API, check the  [Integration Overview](/products/hpp/integration-overview/).
 2.  Learn more about  [callback handling](/integration/callbacks/).
-3.  Read our  [step by step integration guide](/products/hpp/integration-guide/)  and create your own flow.
-4.  Check that you  [respect specific use cases rules](/products/hpp/#use-cases)  for Telesales or In-store cases.
-5.  [Customize the Hosted Payment Page](/products/hpp/customization/)  to increase conversion.
-6.  Read the  [Full HPP API Reference](/products/hpp/reference/).
+3.  Check different [use cases and page samples](/products/hpp/samples/).
+4.  Read the [Full HPP API Reference](/products/hpp/reference/).

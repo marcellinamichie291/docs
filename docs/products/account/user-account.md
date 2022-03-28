@@ -12,10 +12,10 @@
 
 Structurally User profile consists of:
 
--  [General settings](general)
+-  [General settings](#general)
     - Profile
     - Preferences
--  [Security settings](security)
+-  [Security settings](#security)
     - Password management
     - Two-Factors Authentication
     - Sessions

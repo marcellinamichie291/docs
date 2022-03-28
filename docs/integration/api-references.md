@@ -32,7 +32,7 @@ The Private API enables merchants to access functionality such as payments, init
 
 Callbacks notify you about events that occur with regards to the payments that you process via {{custom.company_name}} Commerce, like the state on payments or payouts changes changes. This allows you to be easily aware of things that happen, even after the consumer is no longer on your site. 
 
-[<img src="/integration/images/code-docs.svg" alt="Docs" style="width: 26px; margin-right: 5px; float: left;"> Commerce Callbacks Guide](/integration/commerce-callbacks/)
+[<img src="/integration/images/code-docs.svg" alt="Docs" style="width: 26px; margin-right: 5px; float: left;"> Commerce Callbacks Guide](/integration/callbacks/)
 
 ## Platform
 

@@ -4,9 +4,9 @@
 
 **Routing Engine** is a system component which is indended to determine the route of processed operation.
 
-**Routing engine** is responsible for automating dynamic **Routing Rules** and **Routing Strategies**. 
+**Routing engine** is responsible for automating dynamic **Routing Rules** and **Routing Strategies**.
     
-**Routing rules** are defined in the **Routing Scheme**, which is set for the [**Payout Point**](../payout-points).
+**Routing rules** are defined in the **Routing Scheme**, which is set for the **Payout Point**.
 
 **Routing Scheme** contains dynamic **Routing rules** that are executed when the **conditions** match, which are defined for context attributes.
 

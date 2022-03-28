@@ -52,10 +52,9 @@ Below is a list of statuses and it's descriptions:
 
 ### Currency accounts
 
-This page includes the list [currency accounts](/products/commerce/currency-account/overview/) related to certain Commerce Account.
-There is an ability to add new or remove unnecessary currencies.
+This page includes the list of currency accounts related to certain Commerce Account.
 
-A set of available currencies is limited by a [contract scheme](/products/commerce/contract-scheme/overview/) properties
+There is an ability to add new or remove unnecessary currencies.
 
 ![Currency accounts](images/guide__overview__curracc1.png)
 ![Currency accounts](images/guide__overview__curracc2.png)

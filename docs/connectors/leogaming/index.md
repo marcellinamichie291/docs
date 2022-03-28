@@ -15,7 +15,7 @@ Follow the guidance to set up a connection with LeoGaming as the payment service
 
 ### Step 1: Contact LeoGaming support manager
 
-Send a request on the [website](WEBSITE) or call the hotline. Submit the required documents for verification and gain access.
+Send a request on the [website](https://leogaming.net/en) or call the hotline. Submit the required documents for verification and gain access.
 
 Obtain your Agent and Point ID.
 
