@@ -45,7 +45,6 @@ This section contains:
     > This property determines the Callbacks structure and the way how data is signed
 
     !!! info
-        Read more about [**Webhooks**](../../webhooks/)
+        Read more about [**Callbacks**](/integration/callbacks/)
 
 ![Security](images/org_security_4.png)
-

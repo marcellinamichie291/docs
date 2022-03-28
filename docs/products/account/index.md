@@ -2,27 +2,27 @@
 
 ## Introduction
 
-A  **organization**  in {{custom.company_name}} can be visualized as a container that holds all the customer information, payment provider accounts, payment & payout data, reports and associated configurations. It's the heart of a {{custom.company_name}} account and the way it is built and configured determines how your customers are paid, charged and communicated with. The kind of access privileges you have on a organization depend on the kind of  **role**  you have as a organization  **member**. You can learn more about organization member roles  [here](/account/assess-control/). The top-left corner in {{custom.company_name}} shows the organization you are working in and allows you to switch to any other one you may have access to.
+A  **organization**  in {{custom.company_name}} can be visualized as a container that holds all the customer information, payment provider accounts, payment & payout data, reports and associated configurations. It's the heart of a {{custom.company_name}} account and the way it is built and configured determines how your customers are paid, charged and communicated with. The kind of access privileges you have on a organization depend on the kind of  **role**  you have as a organization  **member**. You can learn more about organization member roles  [here](access-control/). The top-left corner in {{custom.company_name}} shows the organization you are working in and allows you to switch to any other one you may have access to.
 
 
 ## Organisation settings
 
 In these cases "Organisation settings" is structurally divided into 3 sections:
 
-1. [General](general)
+1. [General](#general-settings)
 
-2. [Security](security)
+2. [Security](security/)
 
-3. [Access control](access)
+3. [Access control](access-control)
 
 ![img](images/org1.png)
 
 You can **`Create`** your own organisation or become a member of **`Existing`** one.
 
 ## Join
-To become a member of existing organisation - you need to be invited  by organisations's admininistrator, owner or another member with such permissions.
+To become a member of existing organisation - you need to be invited  by organisations's administrator, owner or another member with such permissions.
 
-After invitaion you will recieve an email with link and invite token. 
+After invitation you will receive an email with link and invite token. 
 
 Go to this link. You will be redirected to the confirmation page and asked to create password for your user account.
 
@@ -60,10 +60,6 @@ In "General" section You can:
 - [x] Change Organisation Name
 - [x] Upload Organisation Logo image
 - [x] Set up it's Public profile and Contact info
-- [x] Set Webhook version  
-    
-    !!! info
-       Read more about [**Webhooks**](../../webhooks/)
 
 !!! tip
     **Don't forget to Save changes to confirm your choice!**

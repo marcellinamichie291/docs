@@ -39,7 +39,7 @@ Use our hosted responsive solution for payment processing:
 
 [Learn more -->](/products/hpp/)
 
-## [Self-hosted payment page](/products/hpp/self-hosted-payment-page/)
+## Self-hosted payment page
 
 <img src="/integration/images/icon-paymentform.svg" alt="Payment Form" style="width: 150px; float: right; padding-left: 10px;">
 
@@ -69,7 +69,7 @@ Build and host yourself using SDKs or client API:
     -   Collect the shopper's payment details (such as cardholder name and card number) and their chosen payment method
     -   Send the payment to {{custom.company_name}}
 
-[Learn more -->](/products/hpp/self-hosted-payment-page/)
+[Learn more -->](/integration)
 
 ## Payment card interfaces
 

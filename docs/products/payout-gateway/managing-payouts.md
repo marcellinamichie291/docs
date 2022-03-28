@@ -33,7 +33,7 @@ To add a currency of payout point, which is **not** listed in the drop down menu
 
 A payout point currency is used mainly for accounting and reporting but you should specify at least one. The payout currency is a mandatory attribute ('point_currency') in a payout request, but it doesn't mean you can not initiate a financial transaction in the currency, which is different from the currency of the payout point.
 
-{{custom.company_name}} has a **`test mode`** you should use for testing. It operates separately from **`live mode`**, so you can make changes without affecting your live data. Using a test provider account it is possible only to initiate test payout requests. Payout and payment requests can be initiated from live deposit accounts only when you connect at least one provider, which supports payouts from the list of [established integrations](/connectors/index.md). You can request a new integration by contacting our Customer Service team.
+{{custom.company_name}} has a **`test mode`** you should use for testing. It operates separately from **`live mode`**, so you can make changes without affecting your live data. Using a test provider account it is possible only to initiate test payout requests. Payout and payment requests can be initiated from live deposit accounts only when you connect at least one provider, which supports payouts from the list of [established integrations](/connectors). You can request a new integration by contacting our Customer Service team.
 
 This example shows how to create a Payout Request:
 
