@@ -6,7 +6,7 @@
 
 This changelog lists releases by date and version number along with associated changes.
 
-### [February 18, 2022 (versions 1.160, 1.159, 1.158, 1.157, 1.156, 1.155, 1.154, 1.153, 1.152, & 1.151)](v1.151-1.160/)
+### [March 24, 2022 (versions 1.160, 1.159, 1.158, 1.157, 1.156, 1.155, 1.154, 1.153, 1.152, & 1.151)](v1.151-1.160/)
 
 * [Commerce update](v1.151-1.160/#commerce-update): added API Keys generation and overview, displaying parameter for payout routing, extended Merchant profile data
 * [Card Gateway update](v1.151-1.160/#card-gateway-update): added metrics for Payment routing, filtration by date of creation in the lists, logs for payments
