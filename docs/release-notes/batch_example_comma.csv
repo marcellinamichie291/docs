@@ -1,0 +1,4 @@
+service,service_amount,fields_data,reference_id,description,customer,customer_metadata
+test_usd,100,account:587965,BI-01,"Shielded description when separating symbol (,) exists",reference_id:customer-123|email:test@email.com|phone:+380987654321|name:John,key1:value #1|key2:value #2
+card,100,card_number:5123817234060000,BI-02,,reference_id:customer-123|email:test@email.com
+payment_card_usd,100,card_number:5123817234060000
